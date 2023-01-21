@@ -1,0 +1,9 @@
+Fault: 07.05.2022 20:07:43---Error loading http://new/ http code :301 error: 6 message Could not resolve host: new
+Fault: 07.05.2022 20:07:43---Error loading http://contacts/ http code :301 error: 6 message Could not resolve host: contacts
+Fault: 07.05.2022 20:07:43---Incorrect server code http://cmsmag//new/
+Fault: 07.05.2022 20:07:43---Incorrect server code http://cmsmag//contacts/
+Fault: 07.05.2022 20:40:09---Error loading http://catalog/ http code :301 error: 6 message Could not resolve host: catalog
+Fault: 07.05.2022 20:40:09---Incorrect server code http://cmsmag//catalog/
+Fault: 07.05.2022 20:40:09---Incorrect server code http://cmsmag//catalog/ipad-8888/
+Fault: 07.05.2022 20:40:09---Incorrect server code http://cmsmag//new/
+Fault: 07.05.2022 20:40:09---Incorrect server code http://cmsmag//contacts/

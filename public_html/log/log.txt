@@ -1,0 +1,3020 @@
+Fault: 06.05.2022 18:37:53---Не верный имени фаля или подключение core/base/models/DateTime
+File:C:\OpenServer\domains\cmsmag\public_html\core\base\settings\internal_settings.php
+In linee34
+
+Fault: 06.05.2022 18:40:31---Не верный имени фаля или подключение core/base/models/DateTime
+File:C:\OpenServer\domains\cmsmag\public_html\core\base\settings\internal_settings.php
+In linee34
+
+Fault: 06.05.2022 18:44:09---Не верный имени фаля или подключение core/base/models/DateTime
+File:C:\OpenServer\domains\cmsmag\public_html\core\base\settings\internal_settings.php
+In linee34
+
+Fault: 06.05.2022 18:45:21---Не верный имени фаля или подключение core/base/models/DateTime
+File:C:\OpenServer\domains\cmsmag\public_html\core\base\settings\internal_settings.php
+In linee34
+
+Fault: 06.05.2022 18:46:24---Не верный имени фаля или подключение core/base/models/DateTime
+File:C:\OpenServer\domains\cmsmag\public_html\core\base\settings\internal_settings.php
+In linee34
+
+Fault: 06.05.2022 18:47:20---Не верный имени фаля или подключение core/base/models/DateTime
+File:C:\OpenServer\domains\cmsmag\public_html\core\base\settings\internal_settings.php
+In linee34
+
+Fault: 06.05.2022 18:48:08---Не верный имени фаля или подключение core/base/models/DateTime
+File:C:\OpenServer\domains\cmsmag\public_html\core\base\settings\internal_settings.php
+In linee34
+
+Fault: 06.05.2022 18:48:50---Не верный имени фаля или подключение core/base/models/DateTime
+File:C:\OpenServer\domains\cmsmag\public_html\core\base\settings\internal_settings.php
+In linee34
+
+Fault: 06.05.2022 18:49:23---Не верный имени фаля или подключение core/base/models/DateTime
+File:C:\OpenServer\domains\cmsmag\public_html\core\base\settings\internal_settings.php
+In linee34
+
+Fault: 06.05.2022 18:50:12---Не верный имени фаля или подключение core/base/models/DateTime
+File:C:\OpenServer\domains\cmsmag\public_html\core\base\settings\internal_settings.php
+In linee34
+
+Fault: 06.05.2022 18:52:05---Не верный имени фаля или подключение core/user/controllers/AdminloginController
+File:C:\OpenServer\domains\cmsmag\public_html\core\base\settings\internal_settings.php
+In linee34
+
+Fault: 06.05.2022 18:53:19---Не верный имени фаля или подключение core/base/exceptions/AuthException
+File:C:\OpenServer\domains\cmsmag\public_html\core\base\settings\internal_settings.php
+In linee34
+
+Fault: 06.05.2022 19:04:42---Не верный имени фаля или подключение core/base/exceptions/AuthException
+File:C:\OpenServer\domains\cmsmag\public_html\core\base\settings\internal_settings.php
+In linee34
+
+Fault: 06.05.2022 19:04:43---Не верный имени фаля или подключение core/base/exceptions/AuthException
+File:C:\OpenServer\domains\cmsmag\public_html\core\base\settings\internal_settings.php
+In linee34
+
+Fault: 07.05.2022 11:00:46---Не верный имени фаля или подключение core/user/controllers/AssetsController
+File:C:\OpenServer\domains\cmsmag\public_html\core\base\settings\internal_settings.php
+In linee59
+
+Fault: 07.05.2022 11:00:46---Не верный имени фаля или подключение core/user/controllers/AssetsController
+File:C:\OpenServer\domains\cmsmag\public_html\core\base\settings\internal_settings.php
+In linee59
+
+Fault: 07.05.2022 11:00:46---Не верный имени фаля или подключение core/user/controllers/AssetsController
+File:C:\OpenServer\domains\cmsmag\public_html\core\base\settings\internal_settings.php
+In linee59
+
+Fault: 07.05.2022 11:00:46---Не верный имени фаля или подключение core/user/controllers/AssetsController
+File:C:\OpenServer\domains\cmsmag\public_html\core\base\settings\internal_settings.php
+In linee59
+
+Fault: 07.05.2022 11:00:46---Не верный имени фаля или подключение core/user/controllers/AssetsController
+File:C:\OpenServer\domains\cmsmag\public_html\core\base\settings\internal_settings.php
+In linee59
+
+Fault: 07.05.2022 11:00:46---Не верный имени фаля или подключение core/user/controllers/AssetsController
+File:C:\OpenServer\domains\cmsmag\public_html\core\base\settings\internal_settings.php
+In linee59
+
+Fault: 07.05.2022 11:00:46---Не верный имени фаля или подключение core/user/controllers/AssetsController
+File:C:\OpenServer\domains\cmsmag\public_html\core\base\settings\internal_settings.php
+In linee59
+
+Fault: 07.05.2022 11:00:46---Не верный имени фаля или подключение core/user/controllers/AssetsController
+File:C:\OpenServer\domains\cmsmag\public_html\core\base\settings\internal_settings.php
+In linee59
+
+Fault: 07.05.2022 11:00:47---Не верный имени фаля или подключение core/user/controllers/AssetsController
+File:C:\OpenServer\domains\cmsmag\public_html\core\base\settings\internal_settings.php
+In linee59
+
+Fault: 07.05.2022 11:00:47---Не верный имени фаля или подключение core/user/controllers/AssetsController
+File:C:\OpenServer\domains\cmsmag\public_html\core\base\settings\internal_settings.php
+In linee59
+
+Fault: 07.05.2022 11:00:47---Не верный имени фаля или подключение core/user/controllers/AssetsController
+File:C:\OpenServer\domains\cmsmag\public_html\core\base\settings\internal_settings.php
+In linee59
+
+Fault: 07.05.2022 11:00:47---Не верный имени фаля или подключение core/user/controllers/AssetsController
+File:C:\OpenServer\domains\cmsmag\public_html\core\base\settings\internal_settings.php
+In linee59
+
+Fault: 07.05.2022 11:00:47---Не верный имени фаля или подключение core/user/controllers/AssetsController
+File:C:\OpenServer\domains\cmsmag\public_html\core\base\settings\internal_settings.php
+In linee59
+
+Fault: 07.05.2022 11:00:47---Не верный имени фаля или подключение core/user/controllers/AssetsController
+File:C:\OpenServer\domains\cmsmag\public_html\core\base\settings\internal_settings.php
+In linee59
+
+Fault: 07.05.2022 11:00:47---Не верный имени фаля или подключение core/user/controllers/AssetsController
+File:C:\OpenServer\domains\cmsmag\public_html\core\base\settings\internal_settings.php
+In linee59
+
+Fault: 07.05.2022 11:00:47---Не верный имени фаля или подключение core/user/controllers/AssetsController
+File:C:\OpenServer\domains\cmsmag\public_html\core\base\settings\internal_settings.php
+In linee59
+
+Fault: 07.05.2022 11:00:47---Не верный имени фаля или подключение core/user/controllers/AssetsController
+File:C:\OpenServer\domains\cmsmag\public_html\core\base\settings\internal_settings.php
+In linee59
+
+Fault: 07.05.2022 11:00:48---Не верный имени фаля или подключение core/user/controllers/AssetsController
+File:C:\OpenServer\domains\cmsmag\public_html\core\base\settings\internal_settings.php
+In linee59
+
+Fault: 07.05.2022 11:00:48---Не верный имени фаля или подключение core/user/controllers/AssetsController
+File:C:\OpenServer\domains\cmsmag\public_html\core\base\settings\internal_settings.php
+In linee59
+
+Fault: 07.05.2022 11:00:48---Не верный имени фаля или подключение core/user/controllers/AssetsController
+File:C:\OpenServer\domains\cmsmag\public_html\core\base\settings\internal_settings.php
+In linee59
+
+Fault: 07.05.2022 11:00:48---Не верный имени фаля или подключение core/user/controllers/AssetsController
+File:C:\OpenServer\domains\cmsmag\public_html\core\base\settings\internal_settings.php
+In linee59
+
+Fault: 07.05.2022 11:00:48---Не верный имени фаля или подключение core/user/controllers/AssetsController
+File:C:\OpenServer\domains\cmsmag\public_html\core\base\settings\internal_settings.php
+In linee59
+
+Fault: 07.05.2022 11:00:48---Не верный имени фаля или подключение core/user/controllers/AssetsController
+File:C:\OpenServer\domains\cmsmag\public_html\core\base\settings\internal_settings.php
+In linee59
+
+Fault: 07.05.2022 11:03:45---Не верный имени фаля или подключение core/user/controllers/AssetsController
+File:C:\OpenServer\domains\cmsmag\public_html\core\base\settings\internal_settings.php
+In linee59
+
+Fault: 07.05.2022 11:03:45---Не верный имени фаля или подключение core/user/controllers/AssetsController
+File:C:\OpenServer\domains\cmsmag\public_html\core\base\settings\internal_settings.php
+In linee59
+
+Fault: 07.05.2022 11:03:45---Не верный имени фаля или подключение core/user/controllers/AssetsController
+File:C:\OpenServer\domains\cmsmag\public_html\core\base\settings\internal_settings.php
+In linee59
+
+Fault: 07.05.2022 11:03:45---Не верный имени фаля или подключение core/user/controllers/AssetsController
+File:C:\OpenServer\domains\cmsmag\public_html\core\base\settings\internal_settings.php
+In linee59
+
+Fault: 07.05.2022 11:03:45---Не верный имени фаля или подключение core/user/controllers/AssetsController
+File:C:\OpenServer\domains\cmsmag\public_html\core\base\settings\internal_settings.php
+In linee59
+
+Fault: 07.05.2022 11:03:45---Не верный имени фаля или подключение core/user/controllers/AssetsController
+File:C:\OpenServer\domains\cmsmag\public_html\core\base\settings\internal_settings.php
+In linee59
+
+Fault: 07.05.2022 11:03:45---Не верный имени фаля или подключение core/user/controllers/AssetsController
+File:C:\OpenServer\domains\cmsmag\public_html\core\base\settings\internal_settings.php
+In linee59
+
+Fault: 07.05.2022 11:03:45---Не верный имени фаля или подключение core/user/controllers/AssetsController
+File:C:\OpenServer\domains\cmsmag\public_html\core\base\settings\internal_settings.php
+In linee59
+
+Fault: 07.05.2022 11:03:45---Не верный имени фаля или подключение core/user/controllers/AssetsController
+File:C:\OpenServer\domains\cmsmag\public_html\core\base\settings\internal_settings.php
+In linee59
+
+Fault: 07.05.2022 11:03:46---Не верный имени фаля или подключение core/user/controllers/AssetsController
+File:C:\OpenServer\domains\cmsmag\public_html\core\base\settings\internal_settings.php
+In linee59
+
+Fault: 07.05.2022 11:03:46---Не верный имени фаля или подключение core/user/controllers/AssetsController
+File:C:\OpenServer\domains\cmsmag\public_html\core\base\settings\internal_settings.php
+In linee59
+
+Fault: 07.05.2022 11:03:46---Не верный имени фаля или подключение core/user/controllers/AssetsController
+File:C:\OpenServer\domains\cmsmag\public_html\core\base\settings\internal_settings.php
+In linee59
+
+Fault: 07.05.2022 11:03:46---Не верный имени фаля или подключение core/user/controllers/AssetsController
+File:C:\OpenServer\domains\cmsmag\public_html\core\base\settings\internal_settings.php
+In linee59
+
+Fault: 07.05.2022 11:03:46---Не верный имени фаля или подключение core/user/controllers/AssetsController
+File:C:\OpenServer\domains\cmsmag\public_html\core\base\settings\internal_settings.php
+In linee59
+
+Fault: 07.05.2022 11:03:46---Не верный имени фаля или подключение core/user/controllers/AssetsController
+File:C:\OpenServer\domains\cmsmag\public_html\core\base\settings\internal_settings.php
+In linee59
+
+Fault: 07.05.2022 11:03:46---Не верный имени фаля или подключение core/user/controllers/AssetsController
+File:C:\OpenServer\domains\cmsmag\public_html\core\base\settings\internal_settings.php
+In linee59
+
+Fault: 07.05.2022 11:03:47---Не верный имени фаля или подключение core/user/controllers/AssetsController
+File:C:\OpenServer\domains\cmsmag\public_html\core\base\settings\internal_settings.php
+In linee59
+
+Fault: 07.05.2022 11:03:47---Не верный имени фаля или подключение core/user/controllers/AssetsController
+File:C:\OpenServer\domains\cmsmag\public_html\core\base\settings\internal_settings.php
+In linee59
+
+Fault: 07.05.2022 11:03:47---Не верный имени фаля или подключение core/user/controllers/AssetsController
+File:C:\OpenServer\domains\cmsmag\public_html\core\base\settings\internal_settings.php
+In linee59
+
+Fault: 07.05.2022 11:03:47---Не верный имени фаля или подключение core/user/controllers/AssetsController
+File:C:\OpenServer\domains\cmsmag\public_html\core\base\settings\internal_settings.php
+In linee59
+
+Fault: 07.05.2022 11:03:47---Не верный имени фаля или подключение core/user/controllers/AssetsController
+File:C:\OpenServer\domains\cmsmag\public_html\core\base\settings\internal_settings.php
+In linee59
+
+Fault: 07.05.2022 11:03:47---Не верный имени фаля или подключение core/user/controllers/AssetsController
+File:C:\OpenServer\domains\cmsmag\public_html\core\base\settings\internal_settings.php
+In linee59
+
+Fault: 07.05.2022 11:03:47---Не верный имени фаля или подключение core/user/controllers/AssetsController
+File:C:\OpenServer\domains\cmsmag\public_html\core\base\settings\internal_settings.php
+In linee59
+
+Fault: 07.05.2022 11:03:47---Не верный имени фаля или подключение core/user/controllers/AssetsController
+File:C:\OpenServer\domains\cmsmag\public_html\core\base\settings\internal_settings.php
+In linee59
+
+Fault: 07.05.2022 11:03:47---Не верный имени фаля или подключение core/user/controllers/AssetsController
+File:C:\OpenServer\domains\cmsmag\public_html\core\base\settings\internal_settings.php
+In linee59
+
+Fault: 07.05.2022 11:07:35---Не верный имени фаля или подключение core/user/controllers/AssetsController
+File:C:\OpenServer\domains\cmsmag\public_html\core\base\settings\internal_settings.php
+In linee59
+
+Fault: 07.05.2022 11:07:36---Не верный имени фаля или подключение core/user/controllers/AssetsController
+File:C:\OpenServer\domains\cmsmag\public_html\core\base\settings\internal_settings.php
+In linee59
+
+Fault: 07.05.2022 11:07:36---Не верный имени фаля или подключение core/user/controllers/AssetsController
+File:C:\OpenServer\domains\cmsmag\public_html\core\base\settings\internal_settings.php
+In linee59
+
+Fault: 07.05.2022 11:07:36---Не верный имени фаля или подключение core/user/controllers/AssetsController
+File:C:\OpenServer\domains\cmsmag\public_html\core\base\settings\internal_settings.php
+In linee59
+
+Fault: 07.05.2022 11:07:36---Не верный имени фаля или подключение core/user/controllers/AssetsController
+File:C:\OpenServer\domains\cmsmag\public_html\core\base\settings\internal_settings.php
+In linee59
+
+Fault: 07.05.2022 11:07:36---Не верный имени фаля или подключение core/user/controllers/AssetsController
+File:C:\OpenServer\domains\cmsmag\public_html\core\base\settings\internal_settings.php
+In linee59
+
+Fault: 07.05.2022 11:07:36---Не верный имени фаля или подключение core/user/controllers/AssetsController
+File:C:\OpenServer\domains\cmsmag\public_html\core\base\settings\internal_settings.php
+In linee59
+
+Fault: 07.05.2022 11:07:36---Не верный имени фаля или подключение core/user/controllers/AssetsController
+File:C:\OpenServer\domains\cmsmag\public_html\core\base\settings\internal_settings.php
+In linee59
+
+Fault: 07.05.2022 11:07:36---Не верный имени фаля или подключение core/user/controllers/AssetsController
+File:C:\OpenServer\domains\cmsmag\public_html\core\base\settings\internal_settings.php
+In linee59
+
+Fault: 07.05.2022 11:07:36---Не верный имени фаля или подключение core/user/controllers/AssetsController
+File:C:\OpenServer\domains\cmsmag\public_html\core\base\settings\internal_settings.php
+In linee59
+
+Fault: 07.05.2022 11:07:37---Не верный имени фаля или подключение core/user/controllers/AssetsController
+File:C:\OpenServer\domains\cmsmag\public_html\core\base\settings\internal_settings.php
+In linee59
+
+Fault: 07.05.2022 11:07:37---Не верный имени фаля или подключение core/user/controllers/AssetsController
+File:C:\OpenServer\domains\cmsmag\public_html\core\base\settings\internal_settings.php
+In linee59
+
+Fault: 07.05.2022 11:07:37---Не верный имени фаля или подключение core/user/controllers/AssetsController
+File:C:\OpenServer\domains\cmsmag\public_html\core\base\settings\internal_settings.php
+In linee59
+
+Fault: 07.05.2022 12:16:22---Не верный имени фаля или подключение core/user/controllers/AssetsController
+File:C:\OpenServer\domains\cmsmag\public_html\core\base\settings\internal_settings.php
+In linee59
+
+Fault: 07.05.2022 12:16:23---Не верный имени фаля или подключение core/user/controllers/AssetsController
+File:C:\OpenServer\domains\cmsmag\public_html\core\base\settings\internal_settings.php
+In linee59
+
+Fault: 07.05.2022 12:16:23---Не верный имени фаля или подключение core/user/controllers/AssetsController
+File:C:\OpenServer\domains\cmsmag\public_html\core\base\settings\internal_settings.php
+In linee59
+
+Fault: 07.05.2022 12:16:23---Не верный имени фаля или подключение core/user/controllers/AssetsController
+File:C:\OpenServer\domains\cmsmag\public_html\core\base\settings\internal_settings.php
+In linee59
+
+Fault: 07.05.2022 12:16:23---Не верный имени фаля или подключение core/user/controllers/AssetsController
+File:C:\OpenServer\domains\cmsmag\public_html\core\base\settings\internal_settings.php
+In linee59
+
+Fault: 07.05.2022 12:16:23---Не верный имени фаля или подключение core/user/controllers/AssetsController
+File:C:\OpenServer\domains\cmsmag\public_html\core\base\settings\internal_settings.php
+In linee59
+
+Fault: 07.05.2022 12:16:23---Не верный имени фаля или подключение core/user/controllers/AssetsController
+File:C:\OpenServer\domains\cmsmag\public_html\core\base\settings\internal_settings.php
+In linee59
+
+Fault: 07.05.2022 12:16:23---Не верный имени фаля или подключение core/user/controllers/AssetsController
+File:C:\OpenServer\domains\cmsmag\public_html\core\base\settings\internal_settings.php
+In linee59
+
+Fault: 07.05.2022 12:16:23---Не верный имени фаля или подключение core/user/controllers/AssetsController
+File:C:\OpenServer\domains\cmsmag\public_html\core\base\settings\internal_settings.php
+In linee59
+
+Fault: 07.05.2022 12:16:23---Не верный имени фаля или подключение core/user/controllers/AssetsController
+File:C:\OpenServer\domains\cmsmag\public_html\core\base\settings\internal_settings.php
+In linee59
+
+Fault: 07.05.2022 12:16:24---Не верный имени фаля или подключение core/user/controllers/AssetsController
+File:C:\OpenServer\domains\cmsmag\public_html\core\base\settings\internal_settings.php
+In linee59
+
+Fault: 07.05.2022 12:16:24---Не верный имени фаля или подключение core/user/controllers/AssetsController
+File:C:\OpenServer\domains\cmsmag\public_html\core\base\settings\internal_settings.php
+In linee59
+
+Fault: 07.05.2022 12:16:24---Не верный имени фаля или подключение core/user/controllers/AssetsController
+File:C:\OpenServer\domains\cmsmag\public_html\core\base\settings\internal_settings.php
+In linee59
+
+Fault: 07.05.2022 12:18:51---otsustviye templates/default/header
+File:C:\OpenServer\domains\cmsmag\public_html\core\base\controllers\BaseController.php
+In linee89
+
+Fault: 07.05.2022 12:19:30---otsustviye templates/default/templater
+File:C:\OpenServer\domains\cmsmag\public_html\core\base\controllers\BaseController.php
+In linee89
+
+Fault: 07.05.2022 12:19:31---otsustviye templates/default/templater
+File:C:\OpenServer\domains\cmsmag\public_html\core\base\controllers\BaseController.php
+In linee89
+
+Fault: 07.05.2022 12:20:28---Не верный имени фаля или подключение core/user/model/Model
+File:C:\OpenServer\domains\cmsmag\public_html\core\base\settings\internal_settings.php
+In linee59
+
+Fault: 07.05.2022 12:20:29---Не верный имени фаля или подключение core/user/model/Model
+File:C:\OpenServer\domains\cmsmag\public_html\core\base\settings\internal_settings.php
+In linee59
+
+Fault: 07.05.2022 12:21:20---Не верный имени фаля или подключение core/user/controllers/AssetsController
+File:C:\OpenServer\domains\cmsmag\public_html\core\base\settings\internal_settings.php
+In linee59
+
+Fault: 07.05.2022 12:21:20---Не верный имени фаля или подключение core/user/controllers/AssetsController
+File:C:\OpenServer\domains\cmsmag\public_html\core\base\settings\internal_settings.php
+In linee59
+
+Fault: 07.05.2022 12:21:20---Не верный имени фаля или подключение core/user/controllers/AssetsController
+File:C:\OpenServer\domains\cmsmag\public_html\core\base\settings\internal_settings.php
+In linee59
+
+Fault: 07.05.2022 12:21:20---Не верный имени фаля или подключение core/user/controllers/AssetsController
+File:C:\OpenServer\domains\cmsmag\public_html\core\base\settings\internal_settings.php
+In linee59
+
+Fault: 07.05.2022 12:21:20---Не верный имени фаля или подключение core/user/controllers/AssetsController
+File:C:\OpenServer\domains\cmsmag\public_html\core\base\settings\internal_settings.php
+In linee59
+
+Fault: 07.05.2022 12:21:21---Не верный имени фаля или подключение core/user/controllers/AssetsController
+File:C:\OpenServer\domains\cmsmag\public_html\core\base\settings\internal_settings.php
+In linee59
+
+Fault: 07.05.2022 12:21:21---Не верный имени фаля или подключение core/user/controllers/AssetsController
+File:C:\OpenServer\domains\cmsmag\public_html\core\base\settings\internal_settings.php
+In linee59
+
+Fault: 07.05.2022 12:21:21---Не верный имени фаля или подключение core/user/controllers/AssetsController
+File:C:\OpenServer\domains\cmsmag\public_html\core\base\settings\internal_settings.php
+In linee59
+
+Fault: 07.05.2022 12:21:21---Не верный имени фаля или подключение core/user/controllers/AssetsController
+File:C:\OpenServer\domains\cmsmag\public_html\core\base\settings\internal_settings.php
+In linee59
+
+Fault: 07.05.2022 12:21:21---Не верный имени фаля или подключение core/user/controllers/AssetsController
+File:C:\OpenServer\domains\cmsmag\public_html\core\base\settings\internal_settings.php
+In linee59
+
+Fault: 07.05.2022 12:21:21---Не верный имени фаля или подключение core/user/controllers/AssetsController
+File:C:\OpenServer\domains\cmsmag\public_html\core\base\settings\internal_settings.php
+In linee59
+
+Fault: 07.05.2022 12:21:21---Не верный имени фаля или подключение core/user/controllers/AssetsController
+File:C:\OpenServer\domains\cmsmag\public_html\core\base\settings\internal_settings.php
+In linee59
+
+Fault: 07.05.2022 12:21:21---Не верный имени фаля или подключение core/user/controllers/AssetsController
+File:C:\OpenServer\domains\cmsmag\public_html\core\base\settings\internal_settings.php
+In linee59
+
+Fault: 07.05.2022 13:46:59---Не верный имени фаля или подключение core/user/controllers/UserfilesController
+File:C:\OpenServer\domains\cmsmag\public_html\core\base\settings\internal_settings.php
+In linee60
+
+Fault: 07.05.2022 13:47:22---Не верный имени фаля или подключение core/user/controllers/AssetsController
+File:C:\OpenServer\domains\cmsmag\public_html\core\base\settings\internal_settings.php
+In linee60
+
+Fault: 07.05.2022 13:47:22---Не верный имени фаля или подключение core/user/controllers/AssetsController
+File:C:\OpenServer\domains\cmsmag\public_html\core\base\settings\internal_settings.php
+In linee60
+
+Fault: 07.05.2022 13:47:22---Не верный имени фаля или подключение core/user/controllers/AssetsController
+File:C:\OpenServer\domains\cmsmag\public_html\core\base\settings\internal_settings.php
+In linee60
+
+Fault: 07.05.2022 13:47:22---Не верный имени фаля или подключение core/user/controllers/AssetsController
+File:C:\OpenServer\domains\cmsmag\public_html\core\base\settings\internal_settings.php
+In linee60
+
+Fault: 07.05.2022 13:47:23---Не верный имени фаля или подключение core/user/controllers/AssetsController
+File:C:\OpenServer\domains\cmsmag\public_html\core\base\settings\internal_settings.php
+In linee60
+
+Fault: 07.05.2022 13:47:23---Не верный имени фаля или подключение core/user/controllers/AssetsController
+File:C:\OpenServer\domains\cmsmag\public_html\core\base\settings\internal_settings.php
+In linee60
+
+Fault: 07.05.2022 13:47:24---Не верный имени фаля или подключение core/user/controllers/AssetsController
+File:C:\OpenServer\domains\cmsmag\public_html\core\base\settings\internal_settings.php
+In linee60
+
+Fault: 07.05.2022 13:47:24---Не верный имени фаля или подключение core/user/controllers/AssetsController
+File:C:\OpenServer\domains\cmsmag\public_html\core\base\settings\internal_settings.php
+In linee60
+
+Fault: 07.05.2022 13:47:24---Не верный имени фаля или подключение core/user/controllers/AssetsController
+File:C:\OpenServer\domains\cmsmag\public_html\core\base\settings\internal_settings.php
+In linee60
+
+Fault: 07.05.2022 13:47:25---Не верный имени фаля или подключение core/user/controllers/AssetsController
+File:C:\OpenServer\domains\cmsmag\public_html\core\base\settings\internal_settings.php
+In linee60
+
+Fault: 07.05.2022 13:47:25---Не верный имени фаля или подключение core/user/controllers/AssetsController
+File:C:\OpenServer\domains\cmsmag\public_html\core\base\settings\internal_settings.php
+In linee60
+
+Fault: 07.05.2022 13:47:25---Не верный имени фаля или подключение core/user/controllers/AssetsController
+File:C:\OpenServer\domains\cmsmag\public_html\core\base\settings\internal_settings.php
+In linee60
+
+Fault: 07.05.2022 13:47:25---Не верный имени фаля или подключение core/user/controllers/AssetsController
+File:C:\OpenServer\domains\cmsmag\public_html\core\base\settings\internal_settings.php
+In linee60
+
+Fault: 07.05.2022 13:47:25---Не верный имени фаля или подключение core/user/controllers/AssetsController
+File:C:\OpenServer\domains\cmsmag\public_html\core\base\settings\internal_settings.php
+In linee60
+
+Fault: 07.05.2022 13:47:25---Не верный имени фаля или подключение core/user/controllers/AssetsController
+File:C:\OpenServer\domains\cmsmag\public_html\core\base\settings\internal_settings.php
+In linee60
+
+Fault: 07.05.2022 13:47:25---Не верный имени фаля или подключение core/user/controllers/AssetsController
+File:C:\OpenServer\domains\cmsmag\public_html\core\base\settings\internal_settings.php
+In linee60
+
+Fault: 07.05.2022 13:47:25---Не верный имени фаля или подключение core/user/controllers/AssetsController
+File:C:\OpenServer\domains\cmsmag\public_html\core\base\settings\internal_settings.php
+In linee60
+
+Fault: 07.05.2022 13:47:25---Не верный имени фаля или подключение core/user/controllers/AssetsController
+File:C:\OpenServer\domains\cmsmag\public_html\core\base\settings\internal_settings.php
+In linee60
+
+Fault: 07.05.2022 15:25:56---Не верный имени фаля или подключение core/base/exceptions/AuthException
+File:C:\OpenServer\domains\cmsmag\public_html\core\base\settings\internal_settings.php
+In linee61
+
+Fault: 07.05.2022 15:26:26---Не верный имени фаля или подключение core/user/controllers/AssetsController
+File:C:\OpenServer\domains\cmsmag\public_html\core\base\settings\internal_settings.php
+In linee61
+
+Fault: 07.05.2022 15:26:26---Не верный имени фаля или подключение core/user/controllers/AssetsController
+File:C:\OpenServer\domains\cmsmag\public_html\core\base\settings\internal_settings.php
+In linee61
+
+Fault: 07.05.2022 15:26:27---Не верный имени фаля или подключение core/user/controllers/AssetsController
+File:C:\OpenServer\domains\cmsmag\public_html\core\base\settings\internal_settings.php
+In linee61
+
+Fault: 07.05.2022 15:26:27---Не верный имени фаля или подключение core/user/controllers/AssetsController
+File:C:\OpenServer\domains\cmsmag\public_html\core\base\settings\internal_settings.php
+In linee61
+
+Fault: 07.05.2022 15:26:27---Не верный имени фаля или подключение core/user/controllers/AssetsController
+File:C:\OpenServer\domains\cmsmag\public_html\core\base\settings\internal_settings.php
+In linee61
+
+Fault: 07.05.2022 15:26:27---Не верный имени фаля или подключение core/user/controllers/AssetsController
+File:C:\OpenServer\domains\cmsmag\public_html\core\base\settings\internal_settings.php
+In linee61
+
+Fault: 07.05.2022 15:26:27---Не верный имени фаля или подключение core/user/controllers/AssetsController
+File:C:\OpenServer\domains\cmsmag\public_html\core\base\settings\internal_settings.php
+In linee61
+
+Fault: 07.05.2022 15:26:27---Не верный имени фаля или подключение core/user/controllers/AssetsController
+File:C:\OpenServer\domains\cmsmag\public_html\core\base\settings\internal_settings.php
+In linee61
+
+Fault: 07.05.2022 15:26:27---Не верный имени фаля или подключение core/user/controllers/AssetsController
+File:C:\OpenServer\domains\cmsmag\public_html\core\base\settings\internal_settings.php
+In linee61
+
+Fault: 07.05.2022 15:26:27---Не верный имени фаля или подключение core/user/controllers/AssetsController
+File:C:\OpenServer\domains\cmsmag\public_html\core\base\settings\internal_settings.php
+In linee61
+
+Fault: 07.05.2022 15:26:27---Не верный имени фаля или подключение core/user/controllers/AssetsController
+File:C:\OpenServer\domains\cmsmag\public_html\core\base\settings\internal_settings.php
+In linee61
+
+Fault: 07.05.2022 15:26:28---Не верный имени фаля или подключение core/user/controllers/AssetsController
+File:C:\OpenServer\domains\cmsmag\public_html\core\base\settings\internal_settings.php
+In linee61
+
+Fault: 07.05.2022 15:26:28---Не верный имени фаля или подключение core/user/controllers/AssetsController
+File:C:\OpenServer\domains\cmsmag\public_html\core\base\settings\internal_settings.php
+In linee61
+
+Fault: 07.05.2022 15:46:04---Не верный имени фаля или подключение core/user/controllers/AssetsController
+File:C:\OpenServer\domains\cmsmag\public_html\core\base\settings\internal_settings.php
+In linee61
+
+Fault: 07.05.2022 15:46:04---Не верный имени фаля или подключение core/user/controllers/AssetsController
+File:C:\OpenServer\domains\cmsmag\public_html\core\base\settings\internal_settings.php
+In linee61
+
+Fault: 07.05.2022 15:46:05---Не верный имени фаля или подключение core/user/controllers/AssetsController
+File:C:\OpenServer\domains\cmsmag\public_html\core\base\settings\internal_settings.php
+In linee61
+
+Fault: 07.05.2022 15:46:05---Не верный имени фаля или подключение core/user/controllers/AssetsController
+File:C:\OpenServer\domains\cmsmag\public_html\core\base\settings\internal_settings.php
+In linee61
+
+Fault: 07.05.2022 15:46:05---Не верный имени фаля или подключение core/user/controllers/AssetsController
+File:C:\OpenServer\domains\cmsmag\public_html\core\base\settings\internal_settings.php
+In linee61
+
+Fault: 07.05.2022 15:46:05---Не верный имени фаля или подключение core/user/controllers/AssetsController
+File:C:\OpenServer\domains\cmsmag\public_html\core\base\settings\internal_settings.php
+In linee61
+
+Fault: 07.05.2022 15:46:05---Не верный имени фаля или подключение core/user/controllers/AssetsController
+File:C:\OpenServer\domains\cmsmag\public_html\core\base\settings\internal_settings.php
+In linee61
+
+Fault: 07.05.2022 15:46:05---Не верный имени фаля или подключение core/user/controllers/AssetsController
+File:C:\OpenServer\domains\cmsmag\public_html\core\base\settings\internal_settings.php
+In linee61
+
+Fault: 07.05.2022 15:46:05---Не верный имени фаля или подключение core/user/controllers/AssetsController
+File:C:\OpenServer\domains\cmsmag\public_html\core\base\settings\internal_settings.php
+In linee61
+
+Fault: 07.05.2022 15:46:05---Не верный имени фаля или подключение core/user/controllers/AssetsController
+File:C:\OpenServer\domains\cmsmag\public_html\core\base\settings\internal_settings.php
+In linee61
+
+Fault: 07.05.2022 15:46:05---Не верный имени фаля или подключение core/user/controllers/AssetsController
+File:C:\OpenServer\domains\cmsmag\public_html\core\base\settings\internal_settings.php
+In linee61
+
+Fault: 07.05.2022 15:46:05---Не верный имени фаля или подключение core/user/controllers/AssetsController
+File:C:\OpenServer\domains\cmsmag\public_html\core\base\settings\internal_settings.php
+In linee61
+
+Fault: 07.05.2022 15:46:06---Не верный имени фаля или подключение core/user/controllers/AssetsController
+File:C:\OpenServer\domains\cmsmag\public_html\core\base\settings\internal_settings.php
+In linee61
+
+Fault: 07.05.2022 15:46:34---Не верный имени фаля или подключение core/user/controllers/AssetsController
+File:C:\OpenServer\domains\cmsmag\public_html\core\base\settings\internal_settings.php
+In linee61
+
+Fault: 07.05.2022 15:46:34---Не верный имени фаля или подключение core/user/controllers/AssetsController
+File:C:\OpenServer\domains\cmsmag\public_html\core\base\settings\internal_settings.php
+In linee61
+
+Fault: 07.05.2022 15:46:34---Не верный имени фаля или подключение core/user/controllers/AssetsController
+File:C:\OpenServer\domains\cmsmag\public_html\core\base\settings\internal_settings.php
+In linee61
+
+Fault: 07.05.2022 15:46:34---Не верный имени фаля или подключение core/user/controllers/AssetsController
+File:C:\OpenServer\domains\cmsmag\public_html\core\base\settings\internal_settings.php
+In linee61
+
+Fault: 07.05.2022 15:46:34---Не верный имени фаля или подключение core/user/controllers/AssetsController
+File:C:\OpenServer\domains\cmsmag\public_html\core\base\settings\internal_settings.php
+In linee61
+
+Fault: 07.05.2022 15:46:34---Не верный имени фаля или подключение core/user/controllers/AssetsController
+File:C:\OpenServer\domains\cmsmag\public_html\core\base\settings\internal_settings.php
+In linee61
+
+Fault: 07.05.2022 15:46:34---Не верный имени фаля или подключение core/user/controllers/AssetsController
+File:C:\OpenServer\domains\cmsmag\public_html\core\base\settings\internal_settings.php
+In linee61
+
+Fault: 07.05.2022 15:46:34---Не верный имени фаля или подключение core/user/controllers/AssetsController
+File:C:\OpenServer\domains\cmsmag\public_html\core\base\settings\internal_settings.php
+In linee61
+
+Fault: 07.05.2022 15:46:35---Не верный имени фаля или подключение core/user/controllers/AssetsController
+File:C:\OpenServer\domains\cmsmag\public_html\core\base\settings\internal_settings.php
+In linee61
+
+Fault: 07.05.2022 15:46:35---Не верный имени фаля или подключение core/user/controllers/AssetsController
+File:C:\OpenServer\domains\cmsmag\public_html\core\base\settings\internal_settings.php
+In linee61
+
+Fault: 07.05.2022 15:46:35---Не верный имени фаля или подключение core/user/controllers/AssetsController
+File:C:\OpenServer\domains\cmsmag\public_html\core\base\settings\internal_settings.php
+In linee61
+
+Fault: 07.05.2022 15:46:35---Не верный имени фаля или подключение core/user/controllers/AssetsController
+File:C:\OpenServer\domains\cmsmag\public_html\core\base\settings\internal_settings.php
+In linee61
+
+Fault: 07.05.2022 15:46:35---Не верный имени фаля или подключение core/user/controllers/AssetsController
+File:C:\OpenServer\domains\cmsmag\public_html\core\base\settings\internal_settings.php
+In linee61
+
+Fault: 07.05.2022 15:46:44---Не верный имени фаля или подключение core/user/controllers/AssetsController
+File:C:\OpenServer\domains\cmsmag\public_html\core\base\settings\internal_settings.php
+In linee61
+
+Fault: 07.05.2022 15:46:44---Не верный имени фаля или подключение core/user/controllers/AssetsController
+File:C:\OpenServer\domains\cmsmag\public_html\core\base\settings\internal_settings.php
+In linee61
+
+Fault: 07.05.2022 15:46:44---Не верный имени фаля или подключение core/user/controllers/AssetsController
+File:C:\OpenServer\domains\cmsmag\public_html\core\base\settings\internal_settings.php
+In linee61
+
+Fault: 07.05.2022 15:46:44---Не верный имени фаля или подключение core/user/controllers/AssetsController
+File:C:\OpenServer\domains\cmsmag\public_html\core\base\settings\internal_settings.php
+In linee61
+
+Fault: 07.05.2022 15:46:44---Не верный имени фаля или подключение core/user/controllers/AssetsController
+File:C:\OpenServer\domains\cmsmag\public_html\core\base\settings\internal_settings.php
+In linee61
+
+Fault: 07.05.2022 15:46:44---Не верный имени фаля или подключение core/user/controllers/AssetsController
+File:C:\OpenServer\domains\cmsmag\public_html\core\base\settings\internal_settings.php
+In linee61
+
+Fault: 07.05.2022 15:46:44---Не верный имени фаля или подключение core/user/controllers/AssetsController
+File:C:\OpenServer\domains\cmsmag\public_html\core\base\settings\internal_settings.php
+In linee61
+
+Fault: 07.05.2022 15:46:44---Не верный имени фаля или подключение core/user/controllers/AssetsController
+File:C:\OpenServer\domains\cmsmag\public_html\core\base\settings\internal_settings.php
+In linee61
+
+Fault: 07.05.2022 15:46:44---Не верный имени фаля или подключение core/user/controllers/AssetsController
+File:C:\OpenServer\domains\cmsmag\public_html\core\base\settings\internal_settings.php
+In linee61
+
+Fault: 07.05.2022 15:46:45---Не верный имени фаля или подключение core/user/controllers/AssetsController
+File:C:\OpenServer\domains\cmsmag\public_html\core\base\settings\internal_settings.php
+In linee61
+
+Fault: 07.05.2022 15:46:45---Не верный имени фаля или подключение core/user/controllers/AssetsController
+File:C:\OpenServer\domains\cmsmag\public_html\core\base\settings\internal_settings.php
+In linee61
+
+Fault: 07.05.2022 15:46:45---Не верный имени фаля или подключение core/user/controllers/AssetsController
+File:C:\OpenServer\domains\cmsmag\public_html\core\base\settings\internal_settings.php
+In linee61
+
+Fault: 07.05.2022 15:46:45---Не верный имени фаля или подключение core/user/controllers/AssetsController
+File:C:\OpenServer\domains\cmsmag\public_html\core\base\settings\internal_settings.php
+In linee61
+
+Fault: 07.05.2022 15:48:06---Не верный имени фаля или подключение core/user/controllers/AssetsController
+File:C:\OpenServer\domains\cmsmag\public_html\core\base\settings\internal_settings.php
+In linee61
+
+Fault: 07.05.2022 15:48:06---Не верный имени фаля или подключение core/user/controllers/AssetsController
+File:C:\OpenServer\domains\cmsmag\public_html\core\base\settings\internal_settings.php
+In linee61
+
+Fault: 07.05.2022 15:48:06---Не верный имени фаля или подключение core/user/controllers/AssetsController
+File:C:\OpenServer\domains\cmsmag\public_html\core\base\settings\internal_settings.php
+In linee61
+
+Fault: 07.05.2022 15:48:07---Не верный имени фаля или подключение core/user/controllers/AssetsController
+File:C:\OpenServer\domains\cmsmag\public_html\core\base\settings\internal_settings.php
+In linee61
+
+Fault: 07.05.2022 15:48:07---Не верный имени фаля или подключение core/user/controllers/AssetsController
+File:C:\OpenServer\domains\cmsmag\public_html\core\base\settings\internal_settings.php
+In linee61
+
+Fault: 07.05.2022 15:48:07---Не верный имени фаля или подключение core/user/controllers/AssetsController
+File:C:\OpenServer\domains\cmsmag\public_html\core\base\settings\internal_settings.php
+In linee61
+
+Fault: 07.05.2022 15:48:07---Не верный имени фаля или подключение core/user/controllers/AssetsController
+File:C:\OpenServer\domains\cmsmag\public_html\core\base\settings\internal_settings.php
+In linee61
+
+Fault: 07.05.2022 15:48:07---Не верный имени фаля или подключение core/user/controllers/AssetsController
+File:C:\OpenServer\domains\cmsmag\public_html\core\base\settings\internal_settings.php
+In linee61
+
+Fault: 07.05.2022 15:48:07---Не верный имени фаля или подключение core/user/controllers/AssetsController
+File:C:\OpenServer\domains\cmsmag\public_html\core\base\settings\internal_settings.php
+In linee61
+
+Fault: 07.05.2022 15:48:07---Не верный имени фаля или подключение core/user/controllers/AssetsController
+File:C:\OpenServer\domains\cmsmag\public_html\core\base\settings\internal_settings.php
+In linee61
+
+Fault: 07.05.2022 15:48:07---Не верный имени фаля или подключение core/user/controllers/AssetsController
+File:C:\OpenServer\domains\cmsmag\public_html\core\base\settings\internal_settings.php
+In linee61
+
+Fault: 07.05.2022 15:48:07---Не верный имени фаля или подключение core/user/controllers/AssetsController
+File:C:\OpenServer\domains\cmsmag\public_html\core\base\settings\internal_settings.php
+In linee61
+
+Fault: 07.05.2022 15:48:08---Не верный имени фаля или подключение core/user/controllers/AssetsController
+File:C:\OpenServer\domains\cmsmag\public_html\core\base\settings\internal_settings.php
+In linee61
+
+Fault: 07.05.2022 15:49:14---Не верный имени фаля или подключение core/user/controllers/AssetsController
+File:C:\OpenServer\domains\cmsmag\public_html\core\base\settings\internal_settings.php
+In linee61
+
+Fault: 07.05.2022 15:49:14---Не верный имени фаля или подключение core/user/controllers/AssetsController
+File:C:\OpenServer\domains\cmsmag\public_html\core\base\settings\internal_settings.php
+In linee61
+
+Fault: 07.05.2022 15:49:14---Не верный имени фаля или подключение core/user/controllers/AssetsController
+File:C:\OpenServer\domains\cmsmag\public_html\core\base\settings\internal_settings.php
+In linee61
+
+Fault: 07.05.2022 15:49:14---Не верный имени фаля или подключение core/user/controllers/AssetsController
+File:C:\OpenServer\domains\cmsmag\public_html\core\base\settings\internal_settings.php
+In linee61
+
+Fault: 07.05.2022 15:49:14---Не верный имени фаля или подключение core/user/controllers/AssetsController
+File:C:\OpenServer\domains\cmsmag\public_html\core\base\settings\internal_settings.php
+In linee61
+
+Fault: 07.05.2022 15:49:14---Не верный имени фаля или подключение core/user/controllers/AssetsController
+File:C:\OpenServer\domains\cmsmag\public_html\core\base\settings\internal_settings.php
+In linee61
+
+Fault: 07.05.2022 15:49:14---Не верный имени фаля или подключение core/user/controllers/AssetsController
+File:C:\OpenServer\domains\cmsmag\public_html\core\base\settings\internal_settings.php
+In linee61
+
+Fault: 07.05.2022 15:49:15---Не верный имени фаля или подключение core/user/controllers/AssetsController
+File:C:\OpenServer\domains\cmsmag\public_html\core\base\settings\internal_settings.php
+In linee61
+
+Fault: 07.05.2022 15:49:15---Не верный имени фаля или подключение core/user/controllers/AssetsController
+File:C:\OpenServer\domains\cmsmag\public_html\core\base\settings\internal_settings.php
+In linee61
+
+Fault: 07.05.2022 15:49:15---Не верный имени фаля или подключение core/user/controllers/AssetsController
+File:C:\OpenServer\domains\cmsmag\public_html\core\base\settings\internal_settings.php
+In linee61
+
+Fault: 07.05.2022 15:49:15---Не верный имени фаля или подключение core/user/controllers/AssetsController
+File:C:\OpenServer\domains\cmsmag\public_html\core\base\settings\internal_settings.php
+In linee61
+
+Fault: 07.05.2022 15:49:15---Не верный имени фаля или подключение core/user/controllers/AssetsController
+File:C:\OpenServer\domains\cmsmag\public_html\core\base\settings\internal_settings.php
+In linee61
+
+Fault: 07.05.2022 15:49:15---Не верный имени фаля или подключение core/user/controllers/AssetsController
+File:C:\OpenServer\domains\cmsmag\public_html\core\base\settings\internal_settings.php
+In linee61
+
+Fault: 07.05.2022 15:49:38---Не верный имени фаля или подключение core/user/controllers/AssetsController
+File:C:\OpenServer\domains\cmsmag\public_html\core\base\settings\internal_settings.php
+In linee61
+
+Fault: 07.05.2022 15:49:39---Не верный имени фаля или подключение core/user/controllers/AssetsController
+File:C:\OpenServer\domains\cmsmag\public_html\core\base\settings\internal_settings.php
+In linee61
+
+Fault: 07.05.2022 15:49:39---Не верный имени фаля или подключение core/user/controllers/AssetsController
+File:C:\OpenServer\domains\cmsmag\public_html\core\base\settings\internal_settings.php
+In linee61
+
+Fault: 07.05.2022 15:49:39---Не верный имени фаля или подключение core/user/controllers/AssetsController
+File:C:\OpenServer\domains\cmsmag\public_html\core\base\settings\internal_settings.php
+In linee61
+
+Fault: 07.05.2022 15:49:39---Не верный имени фаля или подключение core/user/controllers/AssetsController
+File:C:\OpenServer\domains\cmsmag\public_html\core\base\settings\internal_settings.php
+In linee61
+
+Fault: 07.05.2022 15:49:39---Не верный имени фаля или подключение core/user/controllers/AssetsController
+File:C:\OpenServer\domains\cmsmag\public_html\core\base\settings\internal_settings.php
+In linee61
+
+Fault: 07.05.2022 15:49:39---Не верный имени фаля или подключение core/user/controllers/AssetsController
+File:C:\OpenServer\domains\cmsmag\public_html\core\base\settings\internal_settings.php
+In linee61
+
+Fault: 07.05.2022 15:49:39---Не верный имени фаля или подключение core/user/controllers/AssetsController
+File:C:\OpenServer\domains\cmsmag\public_html\core\base\settings\internal_settings.php
+In linee61
+
+Fault: 07.05.2022 15:49:39---Не верный имени фаля или подключение core/user/controllers/AssetsController
+File:C:\OpenServer\domains\cmsmag\public_html\core\base\settings\internal_settings.php
+In linee61
+
+Fault: 07.05.2022 15:49:39---Не верный имени фаля или подключение core/user/controllers/AssetsController
+File:C:\OpenServer\domains\cmsmag\public_html\core\base\settings\internal_settings.php
+In linee61
+
+Fault: 07.05.2022 15:49:40---Не верный имени фаля или подключение core/user/controllers/AssetsController
+File:C:\OpenServer\domains\cmsmag\public_html\core\base\settings\internal_settings.php
+In linee61
+
+Fault: 07.05.2022 15:49:40---Не верный имени фаля или подключение core/user/controllers/AssetsController
+File:C:\OpenServer\domains\cmsmag\public_html\core\base\settings\internal_settings.php
+In linee61
+
+Fault: 07.05.2022 15:49:40---Не верный имени фаля или подключение core/user/controllers/AssetsController
+File:C:\OpenServer\domains\cmsmag\public_html\core\base\settings\internal_settings.php
+In linee61
+
+Fault: 07.05.2022 15:49:58---Не верный имени фаля или подключение core/user/controllers/AssetsController
+File:C:\OpenServer\domains\cmsmag\public_html\core\base\settings\internal_settings.php
+In linee61
+
+Fault: 07.05.2022 15:49:58---Не верный имени фаля или подключение core/user/controllers/AssetsController
+File:C:\OpenServer\domains\cmsmag\public_html\core\base\settings\internal_settings.php
+In linee61
+
+Fault: 07.05.2022 15:49:58---Не верный имени фаля или подключение core/user/controllers/AssetsController
+File:C:\OpenServer\domains\cmsmag\public_html\core\base\settings\internal_settings.php
+In linee61
+
+Fault: 07.05.2022 15:49:58---Не верный имени фаля или подключение core/user/controllers/AssetsController
+File:C:\OpenServer\domains\cmsmag\public_html\core\base\settings\internal_settings.php
+In linee61
+
+Fault: 07.05.2022 15:49:58---Не верный имени фаля или подключение core/user/controllers/AssetsController
+File:C:\OpenServer\domains\cmsmag\public_html\core\base\settings\internal_settings.php
+In linee61
+
+Fault: 07.05.2022 15:49:58---Не верный имени фаля или подключение core/user/controllers/AssetsController
+File:C:\OpenServer\domains\cmsmag\public_html\core\base\settings\internal_settings.php
+In linee61
+
+Fault: 07.05.2022 15:49:58---Не верный имени фаля или подключение core/user/controllers/AssetsController
+File:C:\OpenServer\domains\cmsmag\public_html\core\base\settings\internal_settings.php
+In linee61
+
+Fault: 07.05.2022 15:49:58---Не верный имени фаля или подключение core/user/controllers/AssetsController
+File:C:\OpenServer\domains\cmsmag\public_html\core\base\settings\internal_settings.php
+In linee61
+
+Fault: 07.05.2022 15:49:58---Не верный имени фаля или подключение core/user/controllers/AssetsController
+File:C:\OpenServer\domains\cmsmag\public_html\core\base\settings\internal_settings.php
+In linee61
+
+Fault: 07.05.2022 15:49:59---Не верный имени фаля или подключение core/user/controllers/AssetsController
+File:C:\OpenServer\domains\cmsmag\public_html\core\base\settings\internal_settings.php
+In linee61
+
+Fault: 07.05.2022 15:49:59---Не верный имени фаля или подключение core/user/controllers/AssetsController
+File:C:\OpenServer\domains\cmsmag\public_html\core\base\settings\internal_settings.php
+In linee61
+
+Fault: 07.05.2022 15:49:59---Не верный имени фаля или подключение core/user/controllers/AssetsController
+File:C:\OpenServer\domains\cmsmag\public_html\core\base\settings\internal_settings.php
+In linee61
+
+Fault: 07.05.2022 15:49:59---Не верный имени фаля или подключение core/user/controllers/AssetsController
+File:C:\OpenServer\domains\cmsmag\public_html\core\base\settings\internal_settings.php
+In linee61
+
+Fault: 07.05.2022 15:53:53---Не верный имени фаля или подключение core/user/controllers/AssetsController
+File:C:\OpenServer\domains\cmsmag\public_html\core\base\settings\internal_settings.php
+In linee61
+
+Fault: 07.05.2022 15:53:53---Не верный имени фаля или подключение core/user/controllers/AssetsController
+File:C:\OpenServer\domains\cmsmag\public_html\core\base\settings\internal_settings.php
+In linee61
+
+Fault: 07.05.2022 15:53:53---Не верный имени фаля или подключение core/user/controllers/AssetsController
+File:C:\OpenServer\domains\cmsmag\public_html\core\base\settings\internal_settings.php
+In linee61
+
+Fault: 07.05.2022 15:53:53---Не верный имени фаля или подключение core/user/controllers/AssetsController
+File:C:\OpenServer\domains\cmsmag\public_html\core\base\settings\internal_settings.php
+In linee61
+
+Fault: 07.05.2022 15:53:53---Не верный имени фаля или подключение core/user/controllers/AssetsController
+File:C:\OpenServer\domains\cmsmag\public_html\core\base\settings\internal_settings.php
+In linee61
+
+Fault: 07.05.2022 15:53:53---Не верный имени фаля или подключение core/user/controllers/AssetsController
+File:C:\OpenServer\domains\cmsmag\public_html\core\base\settings\internal_settings.php
+In linee61
+
+Fault: 07.05.2022 15:53:54---Не верный имени фаля или подключение core/user/controllers/AssetsController
+File:C:\OpenServer\domains\cmsmag\public_html\core\base\settings\internal_settings.php
+In linee61
+
+Fault: 07.05.2022 15:53:54---Не верный имени фаля или подключение core/user/controllers/AssetsController
+File:C:\OpenServer\domains\cmsmag\public_html\core\base\settings\internal_settings.php
+In linee61
+
+Fault: 07.05.2022 15:53:54---Не верный имени фаля или подключение core/user/controllers/AssetsController
+File:C:\OpenServer\domains\cmsmag\public_html\core\base\settings\internal_settings.php
+In linee61
+
+Fault: 07.05.2022 15:53:54---Не верный имени фаля или подключение core/user/controllers/AssetsController
+File:C:\OpenServer\domains\cmsmag\public_html\core\base\settings\internal_settings.php
+In linee61
+
+Fault: 07.05.2022 15:53:54---Не верный имени фаля или подключение core/user/controllers/AssetsController
+File:C:\OpenServer\domains\cmsmag\public_html\core\base\settings\internal_settings.php
+In linee61
+
+Fault: 07.05.2022 15:53:54---Не верный имени фаля или подключение core/user/controllers/AssetsController
+File:C:\OpenServer\domains\cmsmag\public_html\core\base\settings\internal_settings.php
+In linee61
+
+Fault: 07.05.2022 15:53:54---Не верный имени фаля или подключение core/user/controllers/AssetsController
+File:C:\OpenServer\domains\cmsmag\public_html\core\base\settings\internal_settings.php
+In linee61
+
+Fault: 07.05.2022 15:54:22---Не верный имени фаля или подключение core/user/controllers/AssetsController
+File:C:\OpenServer\domains\cmsmag\public_html\core\base\settings\internal_settings.php
+In linee61
+
+Fault: 07.05.2022 15:54:22---Не верный имени фаля или подключение core/user/controllers/AssetsController
+File:C:\OpenServer\domains\cmsmag\public_html\core\base\settings\internal_settings.php
+In linee61
+
+Fault: 07.05.2022 15:54:22---Не верный имени фаля или подключение core/user/controllers/AssetsController
+File:C:\OpenServer\domains\cmsmag\public_html\core\base\settings\internal_settings.php
+In linee61
+
+Fault: 07.05.2022 15:54:22---Не верный имени фаля или подключение core/user/controllers/AssetsController
+File:C:\OpenServer\domains\cmsmag\public_html\core\base\settings\internal_settings.php
+In linee61
+
+Fault: 07.05.2022 15:54:22---Не верный имени фаля или подключение core/user/controllers/AssetsController
+File:C:\OpenServer\domains\cmsmag\public_html\core\base\settings\internal_settings.php
+In linee61
+
+Fault: 07.05.2022 15:54:22---Не верный имени фаля или подключение core/user/controllers/AssetsController
+File:C:\OpenServer\domains\cmsmag\public_html\core\base\settings\internal_settings.php
+In linee61
+
+Fault: 07.05.2022 15:54:22---Не верный имени фаля или подключение core/user/controllers/AssetsController
+File:C:\OpenServer\domains\cmsmag\public_html\core\base\settings\internal_settings.php
+In linee61
+
+Fault: 07.05.2022 15:54:22---Не верный имени фаля или подключение core/user/controllers/AssetsController
+File:C:\OpenServer\domains\cmsmag\public_html\core\base\settings\internal_settings.php
+In linee61
+
+Fault: 07.05.2022 15:54:22---Не верный имени фаля или подключение core/user/controllers/AssetsController
+File:C:\OpenServer\domains\cmsmag\public_html\core\base\settings\internal_settings.php
+In linee61
+
+Fault: 07.05.2022 15:54:23---Не верный имени фаля или подключение core/user/controllers/AssetsController
+File:C:\OpenServer\domains\cmsmag\public_html\core\base\settings\internal_settings.php
+In linee61
+
+Fault: 07.05.2022 15:54:23---Не верный имени фаля или подключение core/user/controllers/AssetsController
+File:C:\OpenServer\domains\cmsmag\public_html\core\base\settings\internal_settings.php
+In linee61
+
+Fault: 07.05.2022 15:54:23---Не верный имени фаля или подключение core/user/controllers/AssetsController
+File:C:\OpenServer\domains\cmsmag\public_html\core\base\settings\internal_settings.php
+In linee61
+
+Fault: 07.05.2022 15:54:23---Не верный имени фаля или подключение core/user/controllers/AssetsController
+File:C:\OpenServer\domains\cmsmag\public_html\core\base\settings\internal_settings.php
+In linee61
+
+Fault: 07.05.2022 15:55:48---Не верный имени фаля или подключение core/user/controllers/AssetsController
+File:C:\OpenServer\domains\cmsmag\public_html\core\base\settings\internal_settings.php
+In linee61
+
+Fault: 07.05.2022 15:55:48---Не верный имени фаля или подключение core/user/controllers/AssetsController
+File:C:\OpenServer\domains\cmsmag\public_html\core\base\settings\internal_settings.php
+In linee61
+
+Fault: 07.05.2022 15:55:48---Не верный имени фаля или подключение core/user/controllers/AssetsController
+File:C:\OpenServer\domains\cmsmag\public_html\core\base\settings\internal_settings.php
+In linee61
+
+Fault: 07.05.2022 15:55:48---Не верный имени фаля или подключение core/user/controllers/AssetsController
+File:C:\OpenServer\domains\cmsmag\public_html\core\base\settings\internal_settings.php
+In linee61
+
+Fault: 07.05.2022 15:55:49---Не верный имени фаля или подключение core/user/controllers/AssetsController
+File:C:\OpenServer\domains\cmsmag\public_html\core\base\settings\internal_settings.php
+In linee61
+
+Fault: 07.05.2022 15:55:49---Не верный имени фаля или подключение core/user/controllers/AssetsController
+File:C:\OpenServer\domains\cmsmag\public_html\core\base\settings\internal_settings.php
+In linee61
+
+Fault: 07.05.2022 15:55:49---Не верный имени фаля или подключение core/user/controllers/AssetsController
+File:C:\OpenServer\domains\cmsmag\public_html\core\base\settings\internal_settings.php
+In linee61
+
+Fault: 07.05.2022 15:55:49---Не верный имени фаля или подключение core/user/controllers/AssetsController
+File:C:\OpenServer\domains\cmsmag\public_html\core\base\settings\internal_settings.php
+In linee61
+
+Fault: 07.05.2022 15:55:49---Не верный имени фаля или подключение core/user/controllers/AssetsController
+File:C:\OpenServer\domains\cmsmag\public_html\core\base\settings\internal_settings.php
+In linee61
+
+Fault: 07.05.2022 15:55:49---Не верный имени фаля или подключение core/user/controllers/AssetsController
+File:C:\OpenServer\domains\cmsmag\public_html\core\base\settings\internal_settings.php
+In linee61
+
+Fault: 07.05.2022 15:55:49---Не верный имени фаля или подключение core/user/controllers/AssetsController
+File:C:\OpenServer\domains\cmsmag\public_html\core\base\settings\internal_settings.php
+In linee61
+
+Fault: 07.05.2022 15:55:49---Не верный имени фаля или подключение core/user/controllers/AssetsController
+File:C:\OpenServer\domains\cmsmag\public_html\core\base\settings\internal_settings.php
+In linee61
+
+Fault: 07.05.2022 15:55:49---Не верный имени фаля или подключение core/user/controllers/AssetsController
+File:C:\OpenServer\domains\cmsmag\public_html\core\base\settings\internal_settings.php
+In linee61
+
+Fault: 07.05.2022 16:21:35---Не верный имени фаля или подключение core/user/controllers/AssetsController
+File:C:\OpenServer\domains\cmsmag\public_html\core\base\settings\internal_settings.php
+In linee61
+
+Fault: 07.05.2022 16:21:36---Не верный имени фаля или подключение core/user/controllers/AssetsController
+File:C:\OpenServer\domains\cmsmag\public_html\core\base\settings\internal_settings.php
+In linee61
+
+Fault: 07.05.2022 16:21:36---Не верный имени фаля или подключение core/user/controllers/AssetsController
+File:C:\OpenServer\domains\cmsmag\public_html\core\base\settings\internal_settings.php
+In linee61
+
+Fault: 07.05.2022 16:21:36---Не верный имени фаля или подключение core/user/controllers/AssetsController
+File:C:\OpenServer\domains\cmsmag\public_html\core\base\settings\internal_settings.php
+In linee61
+
+Fault: 07.05.2022 16:21:36---Не верный имени фаля или подключение core/user/controllers/AssetsController
+File:C:\OpenServer\domains\cmsmag\public_html\core\base\settings\internal_settings.php
+In linee61
+
+Fault: 07.05.2022 16:21:36---Не верный имени фаля или подключение core/user/controllers/AssetsController
+File:C:\OpenServer\domains\cmsmag\public_html\core\base\settings\internal_settings.php
+In linee61
+
+Fault: 07.05.2022 16:21:36---Не верный имени фаля или подключение core/user/controllers/AssetsController
+File:C:\OpenServer\domains\cmsmag\public_html\core\base\settings\internal_settings.php
+In linee61
+
+Fault: 07.05.2022 16:21:36---Не верный имени фаля или подключение core/user/controllers/AssetsController
+File:C:\OpenServer\domains\cmsmag\public_html\core\base\settings\internal_settings.php
+In linee61
+
+Fault: 07.05.2022 16:21:36---Не верный имени фаля или подключение core/user/controllers/AssetsController
+File:C:\OpenServer\domains\cmsmag\public_html\core\base\settings\internal_settings.php
+In linee61
+
+Fault: 07.05.2022 16:21:36---Не верный имени фаля или подключение core/user/controllers/AssetsController
+File:C:\OpenServer\domains\cmsmag\public_html\core\base\settings\internal_settings.php
+In linee61
+
+Fault: 07.05.2022 16:21:37---Не верный имени фаля или подключение core/user/controllers/AssetsController
+File:C:\OpenServer\domains\cmsmag\public_html\core\base\settings\internal_settings.php
+In linee61
+
+Fault: 07.05.2022 16:21:37---Не верный имени фаля или подключение core/user/controllers/AssetsController
+File:C:\OpenServer\domains\cmsmag\public_html\core\base\settings\internal_settings.php
+In linee61
+
+Fault: 07.05.2022 16:21:37---Не верный имени фаля или подключение core/user/controllers/AssetsController
+File:C:\OpenServer\domains\cmsmag\public_html\core\base\settings\internal_settings.php
+In linee61
+
+Fault: 07.05.2022 16:21:44---Не верный имени фаля или подключение core/user/controllers/AssetsController
+File:C:\OpenServer\domains\cmsmag\public_html\core\base\settings\internal_settings.php
+In linee61
+
+Fault: 07.05.2022 16:21:44---Не верный имени фаля или подключение core/user/controllers/AssetsController
+File:C:\OpenServer\domains\cmsmag\public_html\core\base\settings\internal_settings.php
+In linee61
+
+Fault: 07.05.2022 16:21:44---Не верный имени фаля или подключение core/user/controllers/AssetsController
+File:C:\OpenServer\domains\cmsmag\public_html\core\base\settings\internal_settings.php
+In linee61
+
+Fault: 07.05.2022 16:21:44---Не верный имени фаля или подключение core/user/controllers/AssetsController
+File:C:\OpenServer\domains\cmsmag\public_html\core\base\settings\internal_settings.php
+In linee61
+
+Fault: 07.05.2022 16:21:44---Не верный имени фаля или подключение core/user/controllers/AssetsController
+File:C:\OpenServer\domains\cmsmag\public_html\core\base\settings\internal_settings.php
+In linee61
+
+Fault: 07.05.2022 16:21:44---Не верный имени фаля или подключение core/user/controllers/AssetsController
+File:C:\OpenServer\domains\cmsmag\public_html\core\base\settings\internal_settings.php
+In linee61
+
+Fault: 07.05.2022 16:21:44---Не верный имени фаля или подключение core/user/controllers/AssetsController
+File:C:\OpenServer\domains\cmsmag\public_html\core\base\settings\internal_settings.php
+In linee61
+
+Fault: 07.05.2022 16:21:44---Не верный имени фаля или подключение core/user/controllers/AssetsController
+File:C:\OpenServer\domains\cmsmag\public_html\core\base\settings\internal_settings.php
+In linee61
+
+Fault: 07.05.2022 16:21:44---Не верный имени фаля или подключение core/user/controllers/AssetsController
+File:C:\OpenServer\domains\cmsmag\public_html\core\base\settings\internal_settings.php
+In linee61
+
+Fault: 07.05.2022 16:21:45---Не верный имени фаля или подключение core/user/controllers/AssetsController
+File:C:\OpenServer\domains\cmsmag\public_html\core\base\settings\internal_settings.php
+In linee61
+
+Fault: 07.05.2022 16:21:45---Не верный имени фаля или подключение core/user/controllers/AssetsController
+File:C:\OpenServer\domains\cmsmag\public_html\core\base\settings\internal_settings.php
+In linee61
+
+Fault: 07.05.2022 16:21:45---Не верный имени фаля или подключение core/user/controllers/AssetsController
+File:C:\OpenServer\domains\cmsmag\public_html\core\base\settings\internal_settings.php
+In linee61
+
+Fault: 07.05.2022 16:21:45---Не верный имени фаля или подключение core/user/controllers/AssetsController
+File:C:\OpenServer\domains\cmsmag\public_html\core\base\settings\internal_settings.php
+In linee61
+
+Fault: 07.05.2022 20:06:05---Не верный имени фаля или подключение core/user/controllers/AssetsController
+File:C:\OpenServer\domains\cmsmag\public_html\core\base\settings\internal_settings.php
+In linee61
+
+Fault: 07.05.2022 20:06:05---Не верный имени фаля или подключение core/user/controllers/AssetsController
+File:C:\OpenServer\domains\cmsmag\public_html\core\base\settings\internal_settings.php
+In linee61
+
+Fault: 07.05.2022 20:06:05---Не верный имени фаля или подключение core/user/controllers/AssetsController
+File:C:\OpenServer\domains\cmsmag\public_html\core\base\settings\internal_settings.php
+In linee61
+
+Fault: 07.05.2022 20:06:06---Не верный имени фаля или подключение core/user/controllers/AssetsController
+File:C:\OpenServer\domains\cmsmag\public_html\core\base\settings\internal_settings.php
+In linee61
+
+Fault: 07.05.2022 20:06:06---Не верный имени фаля или подключение core/user/controllers/AssetsController
+File:C:\OpenServer\domains\cmsmag\public_html\core\base\settings\internal_settings.php
+In linee61
+
+Fault: 07.05.2022 20:06:06---Не верный имени фаля или подключение core/user/controllers/AssetsController
+File:C:\OpenServer\domains\cmsmag\public_html\core\base\settings\internal_settings.php
+In linee61
+
+Fault: 07.05.2022 20:06:06---Не верный имени фаля или подключение core/user/controllers/AssetsController
+File:C:\OpenServer\domains\cmsmag\public_html\core\base\settings\internal_settings.php
+In linee61
+
+Fault: 07.05.2022 20:06:06---Не верный имени фаля или подключение core/user/controllers/AssetsController
+File:C:\OpenServer\domains\cmsmag\public_html\core\base\settings\internal_settings.php
+In linee61
+
+Fault: 07.05.2022 20:06:06---Не верный имени фаля или подключение core/user/controllers/AssetsController
+File:C:\OpenServer\domains\cmsmag\public_html\core\base\settings\internal_settings.php
+In linee61
+
+Fault: 07.05.2022 20:06:07---Не верный имени фаля или подключение core/user/controllers/AssetsController
+File:C:\OpenServer\domains\cmsmag\public_html\core\base\settings\internal_settings.php
+In linee61
+
+Fault: 07.05.2022 20:06:07---Не верный имени фаля или подключение core/user/controllers/AssetsController
+File:C:\OpenServer\domains\cmsmag\public_html\core\base\settings\internal_settings.php
+In linee61
+
+Fault: 07.05.2022 20:06:07---Не верный имени фаля или подключение core/user/controllers/AssetsController
+File:C:\OpenServer\domains\cmsmag\public_html\core\base\settings\internal_settings.php
+In linee61
+
+Fault: 07.05.2022 20:06:07---Не верный имени фаля или подключение core/user/controllers/AssetsController
+File:C:\OpenServer\domains\cmsmag\public_html\core\base\settings\internal_settings.php
+In linee61
+
+Fault: 07.05.2022 20:06:32---Не верный имени фаля или подключение core/base/exceptions/AuthException
+File:C:\OpenServer\domains\cmsmag\public_html\core\base\settings\internal_settings.php
+In linee61
+
+Fault: 07.05.2022 20:06:35---Не верный имени фаля или подключение core/base/exceptions/AuthException
+File:C:\OpenServer\domains\cmsmag\public_html\core\base\settings\internal_settings.php
+In linee61
+
+Fault: 07.05.2022 20:06:44---Не верный имени фаля или подключение core/user/controllers/AssetsController
+File:C:\OpenServer\domains\cmsmag\public_html\core\base\settings\internal_settings.php
+In linee61
+
+Fault: 07.05.2022 20:06:44---Не верный имени фаля или подключение core/user/controllers/AssetsController
+File:C:\OpenServer\domains\cmsmag\public_html\core\base\settings\internal_settings.php
+In linee61
+
+Fault: 07.05.2022 20:06:44---Не верный имени фаля или подключение core/user/controllers/AssetsController
+File:C:\OpenServer\domains\cmsmag\public_html\core\base\settings\internal_settings.php
+In linee61
+
+Fault: 07.05.2022 20:06:44---Не верный имени фаля или подключение core/user/controllers/AssetsController
+File:C:\OpenServer\domains\cmsmag\public_html\core\base\settings\internal_settings.php
+In linee61
+
+Fault: 07.05.2022 20:06:45---Не верный имени фаля или подключение core/user/controllers/AssetsController
+File:C:\OpenServer\domains\cmsmag\public_html\core\base\settings\internal_settings.php
+In linee61
+
+Fault: 07.05.2022 20:06:45---Не верный имени фаля или подключение core/user/controllers/AssetsController
+File:C:\OpenServer\domains\cmsmag\public_html\core\base\settings\internal_settings.php
+In linee61
+
+Fault: 07.05.2022 20:06:45---Не верный имени фаля или подключение core/user/controllers/AssetsController
+File:C:\OpenServer\domains\cmsmag\public_html\core\base\settings\internal_settings.php
+In linee61
+
+Fault: 07.05.2022 20:06:45---Не верный имени фаля или подключение core/user/controllers/AssetsController
+File:C:\OpenServer\domains\cmsmag\public_html\core\base\settings\internal_settings.php
+In linee61
+
+Fault: 07.05.2022 20:06:45---Не верный имени фаля или подключение core/user/controllers/AssetsController
+File:C:\OpenServer\domains\cmsmag\public_html\core\base\settings\internal_settings.php
+In linee61
+
+Fault: 07.05.2022 20:06:45---Не верный имени фаля или подключение core/user/controllers/AssetsController
+File:C:\OpenServer\domains\cmsmag\public_html\core\base\settings\internal_settings.php
+In linee61
+
+Fault: 07.05.2022 20:06:45---Не верный имени фаля или подключение core/user/controllers/AssetsController
+File:C:\OpenServer\domains\cmsmag\public_html\core\base\settings\internal_settings.php
+In linee61
+
+Fault: 07.05.2022 20:06:45---Не верный имени фаля или подключение core/user/controllers/AssetsController
+File:C:\OpenServer\domains\cmsmag\public_html\core\base\settings\internal_settings.php
+In linee61
+
+Fault: 07.05.2022 20:06:45---Не верный имени фаля или подключение core/user/controllers/AssetsController
+File:C:\OpenServer\domains\cmsmag\public_html\core\base\settings\internal_settings.php
+In linee61
+
+Fault: 07.05.2022 20:31:23---Не верный имени фаля или подключение core/user/controllers/AssetsController
+File:C:\OpenServer\domains\cmsmag\public_html\core\base\settings\internal_settings.php
+In linee61
+
+Fault: 07.05.2022 20:31:23---Не верный имени фаля или подключение core/user/controllers/AssetsController
+File:C:\OpenServer\domains\cmsmag\public_html\core\base\settings\internal_settings.php
+In linee61
+
+Fault: 07.05.2022 20:31:24---Не верный имени фаля или подключение core/user/controllers/AssetsController
+File:C:\OpenServer\domains\cmsmag\public_html\core\base\settings\internal_settings.php
+In linee61
+
+Fault: 07.05.2022 20:31:24---Не верный имени фаля или подключение core/user/controllers/AssetsController
+File:C:\OpenServer\domains\cmsmag\public_html\core\base\settings\internal_settings.php
+In linee61
+
+Fault: 07.05.2022 20:31:24---Не верный имени фаля или подключение core/user/controllers/AssetsController
+File:C:\OpenServer\domains\cmsmag\public_html\core\base\settings\internal_settings.php
+In linee61
+
+Fault: 07.05.2022 20:31:24---Не верный имени фаля или подключение core/user/controllers/AssetsController
+File:C:\OpenServer\domains\cmsmag\public_html\core\base\settings\internal_settings.php
+In linee61
+
+Fault: 07.05.2022 20:31:24---Не верный имени фаля или подключение core/user/controllers/AssetsController
+File:C:\OpenServer\domains\cmsmag\public_html\core\base\settings\internal_settings.php
+In linee61
+
+Fault: 07.05.2022 20:31:24---Не верный имени фаля или подключение core/user/controllers/AssetsController
+File:C:\OpenServer\domains\cmsmag\public_html\core\base\settings\internal_settings.php
+In linee61
+
+Fault: 07.05.2022 20:31:24---Не верный имени фаля или подключение core/user/controllers/AssetsController
+File:C:\OpenServer\domains\cmsmag\public_html\core\base\settings\internal_settings.php
+In linee61
+
+Fault: 07.05.2022 20:31:25---Не верный имени фаля или подключение core/user/controllers/AssetsController
+File:C:\OpenServer\domains\cmsmag\public_html\core\base\settings\internal_settings.php
+In linee61
+
+Fault: 07.05.2022 20:31:25---Не верный имени фаля или подключение core/user/controllers/AssetsController
+File:C:\OpenServer\domains\cmsmag\public_html\core\base\settings\internal_settings.php
+In linee61
+
+Fault: 07.05.2022 20:31:25---Не верный имени фаля или подключение core/user/controllers/AssetsController
+File:C:\OpenServer\domains\cmsmag\public_html\core\base\settings\internal_settings.php
+In linee61
+
+Fault: 07.05.2022 20:31:25---Не верный имени фаля или подключение core/user/controllers/AssetsController
+File:C:\OpenServer\domains\cmsmag\public_html\core\base\settings\internal_settings.php
+In linee61
+
+Fault: 07.05.2022 20:31:54---Не верный имени фаля или подключение core/user/controllers/CatalogController
+File:C:\OpenServer\domains\cmsmag\public_html\core\base\settings\internal_settings.php
+In linee61
+
+Fault: 07.05.2022 20:32:01---Не верный имени фаля или подключение core/user/controllers/AssetsController
+File:C:\OpenServer\domains\cmsmag\public_html\core\base\settings\internal_settings.php
+In linee61
+
+Fault: 07.05.2022 20:32:01---Не верный имени фаля или подключение core/user/controllers/AssetsController
+File:C:\OpenServer\domains\cmsmag\public_html\core\base\settings\internal_settings.php
+In linee61
+
+Fault: 07.05.2022 20:32:02---Не верный имени фаля или подключение core/user/controllers/AssetsController
+File:C:\OpenServer\domains\cmsmag\public_html\core\base\settings\internal_settings.php
+In linee61
+
+Fault: 07.05.2022 20:32:02---Не верный имени фаля или подключение core/user/controllers/AssetsController
+File:C:\OpenServer\domains\cmsmag\public_html\core\base\settings\internal_settings.php
+In linee61
+
+Fault: 07.05.2022 20:32:02---Не верный имени фаля или подключение core/user/controllers/AssetsController
+File:C:\OpenServer\domains\cmsmag\public_html\core\base\settings\internal_settings.php
+In linee61
+
+Fault: 07.05.2022 20:32:02---Не верный имени фаля или подключение core/user/controllers/AssetsController
+File:C:\OpenServer\domains\cmsmag\public_html\core\base\settings\internal_settings.php
+In linee61
+
+Fault: 07.05.2022 20:32:02---Не верный имени фаля или подключение core/user/controllers/AssetsController
+File:C:\OpenServer\domains\cmsmag\public_html\core\base\settings\internal_settings.php
+In linee61
+
+Fault: 07.05.2022 20:32:02---Не верный имени фаля или подключение core/user/controllers/AssetsController
+File:C:\OpenServer\domains\cmsmag\public_html\core\base\settings\internal_settings.php
+In linee61
+
+Fault: 07.05.2022 20:32:02---Не верный имени фаля или подключение core/user/controllers/AssetsController
+File:C:\OpenServer\domains\cmsmag\public_html\core\base\settings\internal_settings.php
+In linee61
+
+Fault: 07.05.2022 20:32:02---Не верный имени фаля или подключение core/user/controllers/AssetsController
+File:C:\OpenServer\domains\cmsmag\public_html\core\base\settings\internal_settings.php
+In linee61
+
+Fault: 07.05.2022 20:32:03---Не верный имени фаля или подключение core/user/controllers/AssetsController
+File:C:\OpenServer\domains\cmsmag\public_html\core\base\settings\internal_settings.php
+In linee61
+
+Fault: 07.05.2022 20:32:03---Не верный имени фаля или подключение core/user/controllers/AssetsController
+File:C:\OpenServer\domains\cmsmag\public_html\core\base\settings\internal_settings.php
+In linee61
+
+Fault: 07.05.2022 20:41:42---Не верный имени фаля или подключение core/user/controllers/AssetsController
+File:C:\OpenServer\domains\cmsmag\public_html\core\base\settings\internal_settings.php
+In linee61
+
+Fault: 07.05.2022 20:41:42---Не верный имени фаля или подключение core/user/controllers/AssetsController
+File:C:\OpenServer\domains\cmsmag\public_html\core\base\settings\internal_settings.php
+In linee61
+
+Fault: 07.05.2022 20:41:42---Не верный имени фаля или подключение core/user/controllers/AssetsController
+File:C:\OpenServer\domains\cmsmag\public_html\core\base\settings\internal_settings.php
+In linee61
+
+Fault: 07.05.2022 20:41:42---Не верный имени фаля или подключение core/user/controllers/AssetsController
+File:C:\OpenServer\domains\cmsmag\public_html\core\base\settings\internal_settings.php
+In linee61
+
+Fault: 07.05.2022 20:41:42---Не верный имени фаля или подключение core/user/controllers/AssetsController
+File:C:\OpenServer\domains\cmsmag\public_html\core\base\settings\internal_settings.php
+In linee61
+
+Fault: 07.05.2022 20:41:42---Не верный имени фаля или подключение core/user/controllers/AssetsController
+File:C:\OpenServer\domains\cmsmag\public_html\core\base\settings\internal_settings.php
+In linee61
+
+Fault: 07.05.2022 20:41:42---Не верный имени фаля или подключение core/user/controllers/AssetsController
+File:C:\OpenServer\domains\cmsmag\public_html\core\base\settings\internal_settings.php
+In linee61
+
+Fault: 07.05.2022 20:41:43---Не верный имени фаля или подключение core/user/controllers/AssetsController
+File:C:\OpenServer\domains\cmsmag\public_html\core\base\settings\internal_settings.php
+In linee61
+
+Fault: 07.05.2022 20:41:43---Не верный имени фаля или подключение core/user/controllers/AssetsController
+File:C:\OpenServer\domains\cmsmag\public_html\core\base\settings\internal_settings.php
+In linee61
+
+Fault: 07.05.2022 20:41:43---Не верный имени фаля или подключение core/user/controllers/AssetsController
+File:C:\OpenServer\domains\cmsmag\public_html\core\base\settings\internal_settings.php
+In linee61
+
+Fault: 07.05.2022 20:41:43---Не верный имени фаля или подключение core/user/controllers/AssetsController
+File:C:\OpenServer\domains\cmsmag\public_html\core\base\settings\internal_settings.php
+In linee61
+
+Fault: 07.05.2022 20:41:43---Не верный имени фаля или подключение core/user/controllers/AssetsController
+File:C:\OpenServer\domains\cmsmag\public_html\core\base\settings\internal_settings.php
+In linee61
+
+Fault: 07.05.2022 20:41:43---Не верный имени фаля или подключение core/user/controllers/AssetsController
+File:C:\OpenServer\domains\cmsmag\public_html\core\base\settings\internal_settings.php
+In linee61
+
+Fault: 07.05.2022 21:04:41---Не верный имени фаля или подключение core/user/controllers/AssetsController
+File:C:\OpenServer\domains\cmsmag\public_html\core\base\settings\internal_settings.php
+In linee61
+
+Fault: 07.05.2022 21:04:41---Не верный имени фаля или подключение core/user/controllers/AssetsController
+File:C:\OpenServer\domains\cmsmag\public_html\core\base\settings\internal_settings.php
+In linee61
+
+Fault: 07.05.2022 21:04:41---Не верный имени фаля или подключение core/user/controllers/AssetsController
+File:C:\OpenServer\domains\cmsmag\public_html\core\base\settings\internal_settings.php
+In linee61
+
+Fault: 07.05.2022 21:04:42---Не верный имени фаля или подключение core/user/controllers/AssetsController
+File:C:\OpenServer\domains\cmsmag\public_html\core\base\settings\internal_settings.php
+In linee61
+
+Fault: 07.05.2022 21:04:42---Не верный имени фаля или подключение core/user/controllers/AssetsController
+File:C:\OpenServer\domains\cmsmag\public_html\core\base\settings\internal_settings.php
+In linee61
+
+Fault: 07.05.2022 21:04:42---Не верный имени фаля или подключение core/user/controllers/AssetsController
+File:C:\OpenServer\domains\cmsmag\public_html\core\base\settings\internal_settings.php
+In linee61
+
+Fault: 07.05.2022 21:04:42---Не верный имени фаля или подключение core/user/controllers/AssetsController
+File:C:\OpenServer\domains\cmsmag\public_html\core\base\settings\internal_settings.php
+In linee61
+
+Fault: 07.05.2022 21:04:42---Не верный имени фаля или подключение core/user/controllers/AssetsController
+File:C:\OpenServer\domains\cmsmag\public_html\core\base\settings\internal_settings.php
+In linee61
+
+Fault: 07.05.2022 21:04:42---Не верный имени фаля или подключение core/user/controllers/AssetsController
+File:C:\OpenServer\domains\cmsmag\public_html\core\base\settings\internal_settings.php
+In linee61
+
+Fault: 07.05.2022 21:04:42---Не верный имени фаля или подключение core/user/controllers/AssetsController
+File:C:\OpenServer\domains\cmsmag\public_html\core\base\settings\internal_settings.php
+In linee61
+
+Fault: 07.05.2022 21:04:42---Не верный имени фаля или подключение core/user/controllers/AssetsController
+File:C:\OpenServer\domains\cmsmag\public_html\core\base\settings\internal_settings.php
+In linee61
+
+Fault: 07.05.2022 21:04:42---Не верный имени фаля или подключение core/user/controllers/AssetsController
+File:C:\OpenServer\domains\cmsmag\public_html\core\base\settings\internal_settings.php
+In linee61
+
+Fault: 07.05.2022 21:04:43---Не верный имени фаля или подключение core/user/controllers/AssetsController
+File:C:\OpenServer\domains\cmsmag\public_html\core\base\settings\internal_settings.php
+In linee61
+
+Fault: 07.05.2022 21:06:35---Не верный имени фаля или подключение core/user/controllers/AssetsController
+File:C:\OpenServer\domains\cmsmag\public_html\core\base\settings\internal_settings.php
+In linee61
+
+Fault: 07.05.2022 21:06:35---Не верный имени фаля или подключение core/user/controllers/AssetsController
+File:C:\OpenServer\domains\cmsmag\public_html\core\base\settings\internal_settings.php
+In linee61
+
+Fault: 07.05.2022 21:06:35---Не верный имени фаля или подключение core/user/controllers/AssetsController
+File:C:\OpenServer\domains\cmsmag\public_html\core\base\settings\internal_settings.php
+In linee61
+
+Fault: 07.05.2022 21:06:36---Не верный имени фаля или подключение core/user/controllers/AssetsController
+File:C:\OpenServer\domains\cmsmag\public_html\core\base\settings\internal_settings.php
+In linee61
+
+Fault: 07.05.2022 21:06:36---Не верный имени фаля или подключение core/user/controllers/AssetsController
+File:C:\OpenServer\domains\cmsmag\public_html\core\base\settings\internal_settings.php
+In linee61
+
+Fault: 07.05.2022 21:06:36---Не верный имени фаля или подключение core/user/controllers/AssetsController
+File:C:\OpenServer\domains\cmsmag\public_html\core\base\settings\internal_settings.php
+In linee61
+
+Fault: 07.05.2022 21:06:36---Не верный имени фаля или подключение core/user/controllers/AssetsController
+File:C:\OpenServer\domains\cmsmag\public_html\core\base\settings\internal_settings.php
+In linee61
+
+Fault: 07.05.2022 21:06:36---Не верный имени фаля или подключение core/user/controllers/AssetsController
+File:C:\OpenServer\domains\cmsmag\public_html\core\base\settings\internal_settings.php
+In linee61
+
+Fault: 07.05.2022 21:06:36---Не верный имени фаля или подключение core/user/controllers/AssetsController
+File:C:\OpenServer\domains\cmsmag\public_html\core\base\settings\internal_settings.php
+In linee61
+
+Fault: 07.05.2022 21:06:36---Не верный имени фаля или подключение core/user/controllers/AssetsController
+File:C:\OpenServer\domains\cmsmag\public_html\core\base\settings\internal_settings.php
+In linee61
+
+Fault: 07.05.2022 21:06:37---Не верный имени фаля или подключение core/user/controllers/AssetsController
+File:C:\OpenServer\domains\cmsmag\public_html\core\base\settings\internal_settings.php
+In linee61
+
+Fault: 07.05.2022 21:06:37---Не верный имени фаля или подключение core/user/controllers/AssetsController
+File:C:\OpenServer\domains\cmsmag\public_html\core\base\settings\internal_settings.php
+In linee61
+
+Fault: 07.05.2022 21:06:37---Не верный имени фаля или подключение core/user/controllers/AssetsController
+File:C:\OpenServer\domains\cmsmag\public_html\core\base\settings\internal_settings.php
+In linee61
+
+Fault: 08.05.2022 10:45:04---Не верный имени фаля или подключение core/user/controllers/AssetsController
+File:C:\OpenServer\domains\cmsmag\public_html\core\base\settings\internal_settings.php
+In linee61
+
+Fault: 08.05.2022 10:45:04---Не верный имени фаля или подключение core/user/controllers/AssetsController
+File:C:\OpenServer\domains\cmsmag\public_html\core\base\settings\internal_settings.php
+In linee61
+
+Fault: 08.05.2022 10:45:04---Не верный имени фаля или подключение core/user/controllers/AssetsController
+File:C:\OpenServer\domains\cmsmag\public_html\core\base\settings\internal_settings.php
+In linee61
+
+Fault: 08.05.2022 10:45:04---Не верный имени фаля или подключение core/user/controllers/AssetsController
+File:C:\OpenServer\domains\cmsmag\public_html\core\base\settings\internal_settings.php
+In linee61
+
+Fault: 08.05.2022 10:45:04---Не верный имени фаля или подключение core/user/controllers/AssetsController
+File:C:\OpenServer\domains\cmsmag\public_html\core\base\settings\internal_settings.php
+In linee61
+
+Fault: 08.05.2022 10:45:04---Не верный имени фаля или подключение core/user/controllers/AssetsController
+File:C:\OpenServer\domains\cmsmag\public_html\core\base\settings\internal_settings.php
+In linee61
+
+Fault: 08.05.2022 10:45:04---Не верный имени фаля или подключение core/user/controllers/AssetsController
+File:C:\OpenServer\domains\cmsmag\public_html\core\base\settings\internal_settings.php
+In linee61
+
+Fault: 08.05.2022 10:45:04---Не верный имени фаля или подключение core/user/controllers/AssetsController
+File:C:\OpenServer\domains\cmsmag\public_html\core\base\settings\internal_settings.php
+In linee61
+
+Fault: 08.05.2022 10:45:04---Не верный имени фаля или подключение core/user/controllers/AssetsController
+File:C:\OpenServer\domains\cmsmag\public_html\core\base\settings\internal_settings.php
+In linee61
+
+Fault: 08.05.2022 10:45:05---Не верный имени фаля или подключение core/user/controllers/AssetsController
+File:C:\OpenServer\domains\cmsmag\public_html\core\base\settings\internal_settings.php
+In linee61
+
+Fault: 08.05.2022 10:45:05---Не верный имени фаля или подключение core/user/controllers/AssetsController
+File:C:\OpenServer\domains\cmsmag\public_html\core\base\settings\internal_settings.php
+In linee61
+
+Fault: 08.05.2022 10:45:05---Не верный имени фаля или подключение core/user/controllers/AssetsController
+File:C:\OpenServer\domains\cmsmag\public_html\core\base\settings\internal_settings.php
+In linee61
+
+Fault: 08.05.2022 10:45:05---Не верный имени фаля или подключение core/user/controllers/AssetsController
+File:C:\OpenServer\domains\cmsmag\public_html\core\base\settings\internal_settings.php
+In linee61
+
+Fault: 08.05.2022 10:59:04---Не верный имени фаля или подключение core/base/exceptions/AuthException
+File:C:\OpenServer\domains\cmsmag\public_html\core\base\settings\internal_settings.php
+In linee61
+
+Fault: 08.05.2022 10:59:07---Не верный имени фаля или подключение core/base/exceptions/AuthException
+File:C:\OpenServer\domains\cmsmag\public_html\core\base\settings\internal_settings.php
+In linee61
+
+Fault: 08.05.2022 10:59:21---Не верный имени фаля или подключение core/user/controllers/AssetsController
+File:C:\OpenServer\domains\cmsmag\public_html\core\base\settings\internal_settings.php
+In linee61
+
+Fault: 08.05.2022 10:59:22---Не верный имени фаля или подключение core/user/controllers/AssetsController
+File:C:\OpenServer\domains\cmsmag\public_html\core\base\settings\internal_settings.php
+In linee61
+
+Fault: 08.05.2022 10:59:22---Не верный имени фаля или подключение core/user/controllers/AssetsController
+File:C:\OpenServer\domains\cmsmag\public_html\core\base\settings\internal_settings.php
+In linee61
+
+Fault: 08.05.2022 10:59:22---Не верный имени фаля или подключение core/user/controllers/AssetsController
+File:C:\OpenServer\domains\cmsmag\public_html\core\base\settings\internal_settings.php
+In linee61
+
+Fault: 08.05.2022 10:59:22---Не верный имени фаля или подключение core/user/controllers/AssetsController
+File:C:\OpenServer\domains\cmsmag\public_html\core\base\settings\internal_settings.php
+In linee61
+
+Fault: 08.05.2022 10:59:22---Не верный имени фаля или подключение core/user/controllers/AssetsController
+File:C:\OpenServer\domains\cmsmag\public_html\core\base\settings\internal_settings.php
+In linee61
+
+Fault: 08.05.2022 10:59:22---Не верный имени фаля или подключение core/user/controllers/AssetsController
+File:C:\OpenServer\domains\cmsmag\public_html\core\base\settings\internal_settings.php
+In linee61
+
+Fault: 08.05.2022 10:59:22---Не верный имени фаля или подключение core/user/controllers/AssetsController
+File:C:\OpenServer\domains\cmsmag\public_html\core\base\settings\internal_settings.php
+In linee61
+
+Fault: 08.05.2022 10:59:22---Не верный имени фаля или подключение core/user/controllers/AssetsController
+File:C:\OpenServer\domains\cmsmag\public_html\core\base\settings\internal_settings.php
+In linee61
+
+Fault: 08.05.2022 10:59:22---Не верный имени фаля или подключение core/user/controllers/AssetsController
+File:C:\OpenServer\domains\cmsmag\public_html\core\base\settings\internal_settings.php
+In linee61
+
+Fault: 08.05.2022 10:59:23---Не верный имени фаля или подключение core/user/controllers/AssetsController
+File:C:\OpenServer\domains\cmsmag\public_html\core\base\settings\internal_settings.php
+In linee61
+
+Fault: 08.05.2022 10:59:23---Не верный имени фаля или подключение core/user/controllers/AssetsController
+File:C:\OpenServer\domains\cmsmag\public_html\core\base\settings\internal_settings.php
+In linee61
+
+Fault: 08.05.2022 10:59:23---Не верный имени фаля или подключение core/user/controllers/AssetsController
+File:C:\OpenServer\domains\cmsmag\public_html\core\base\settings\internal_settings.php
+In linee61
+
+Fault: 08.05.2022 11:13:26---Не верный имени фаля или подключение core/user/controllers/AssetsController
+File:C:\OpenServer\domains\cmsmag\public_html\core\base\settings\internal_settings.php
+In linee61
+
+Fault: 08.05.2022 11:13:26---Не верный имени фаля или подключение core/user/controllers/AssetsController
+File:C:\OpenServer\domains\cmsmag\public_html\core\base\settings\internal_settings.php
+In linee61
+
+Fault: 08.05.2022 11:13:26---Не верный имени фаля или подключение core/user/controllers/AssetsController
+File:C:\OpenServer\domains\cmsmag\public_html\core\base\settings\internal_settings.php
+In linee61
+
+Fault: 08.05.2022 11:13:26---Не верный имени фаля или подключение core/user/controllers/AssetsController
+File:C:\OpenServer\domains\cmsmag\public_html\core\base\settings\internal_settings.php
+In linee61
+
+Fault: 08.05.2022 11:13:27---Не верный имени фаля или подключение core/user/controllers/AssetsController
+File:C:\OpenServer\domains\cmsmag\public_html\core\base\settings\internal_settings.php
+In linee61
+
+Fault: 08.05.2022 11:13:27---Не верный имени фаля или подключение core/user/controllers/AssetsController
+File:C:\OpenServer\domains\cmsmag\public_html\core\base\settings\internal_settings.php
+In linee61
+
+Fault: 08.05.2022 11:13:27---Не верный имени фаля или подключение core/user/controllers/AssetsController
+File:C:\OpenServer\domains\cmsmag\public_html\core\base\settings\internal_settings.php
+In linee61
+
+Fault: 08.05.2022 11:13:27---Не верный имени фаля или подключение core/user/controllers/AssetsController
+File:C:\OpenServer\domains\cmsmag\public_html\core\base\settings\internal_settings.php
+In linee61
+
+Fault: 08.05.2022 11:13:27---Не верный имени фаля или подключение core/user/controllers/AssetsController
+File:C:\OpenServer\domains\cmsmag\public_html\core\base\settings\internal_settings.php
+In linee61
+
+Fault: 08.05.2022 11:13:27---Не верный имени фаля или подключение core/user/controllers/AssetsController
+File:C:\OpenServer\domains\cmsmag\public_html\core\base\settings\internal_settings.php
+In linee61
+
+Fault: 08.05.2022 11:13:27---Не верный имени фаля или подключение core/user/controllers/AssetsController
+File:C:\OpenServer\domains\cmsmag\public_html\core\base\settings\internal_settings.php
+In linee61
+
+Fault: 08.05.2022 11:13:27---Не верный имени фаля или подключение core/user/controllers/AssetsController
+File:C:\OpenServer\domains\cmsmag\public_html\core\base\settings\internal_settings.php
+In linee61
+
+Fault: 08.05.2022 11:13:27---Не верный имени фаля или подключение core/user/controllers/AssetsController
+File:C:\OpenServer\domains\cmsmag\public_html\core\base\settings\internal_settings.php
+In linee61
+
+Fault: 08.05.2022 11:13:47---Не верный имени фаля или подключение core/user/controllers/CartController
+File:C:\OpenServer\domains\cmsmag\public_html\core\base\settings\internal_settings.php
+In linee61
+
+Fault: 08.05.2022 11:13:52---Не верный имени фаля или подключение core/user/controllers/AssetsController
+File:C:\OpenServer\domains\cmsmag\public_html\core\base\settings\internal_settings.php
+In linee61
+
+Fault: 08.05.2022 11:13:52---Не верный имени фаля или подключение core/user/controllers/AssetsController
+File:C:\OpenServer\domains\cmsmag\public_html\core\base\settings\internal_settings.php
+In linee61
+
+Fault: 08.05.2022 11:13:53---Не верный имени фаля или подключение core/user/controllers/AssetsController
+File:C:\OpenServer\domains\cmsmag\public_html\core\base\settings\internal_settings.php
+In linee61
+
+Fault: 08.05.2022 11:13:53---Не верный имени фаля или подключение core/user/controllers/AssetsController
+File:C:\OpenServer\domains\cmsmag\public_html\core\base\settings\internal_settings.php
+In linee61
+
+Fault: 08.05.2022 11:13:53---Не верный имени фаля или подключение core/user/controllers/AssetsController
+File:C:\OpenServer\domains\cmsmag\public_html\core\base\settings\internal_settings.php
+In linee61
+
+Fault: 08.05.2022 11:13:53---Не верный имени фаля или подключение core/user/controllers/AssetsController
+File:C:\OpenServer\domains\cmsmag\public_html\core\base\settings\internal_settings.php
+In linee61
+
+Fault: 08.05.2022 11:13:53---Не верный имени фаля или подключение core/user/controllers/AssetsController
+File:C:\OpenServer\domains\cmsmag\public_html\core\base\settings\internal_settings.php
+In linee61
+
+Fault: 08.05.2022 11:13:53---Не верный имени фаля или подключение core/user/controllers/AssetsController
+File:C:\OpenServer\domains\cmsmag\public_html\core\base\settings\internal_settings.php
+In linee61
+
+Fault: 08.05.2022 11:13:53---Не верный имени фаля или подключение core/user/controllers/AssetsController
+File:C:\OpenServer\domains\cmsmag\public_html\core\base\settings\internal_settings.php
+In linee61
+
+Fault: 08.05.2022 11:13:53---Не верный имени фаля или подключение core/user/controllers/AssetsController
+File:C:\OpenServer\domains\cmsmag\public_html\core\base\settings\internal_settings.php
+In linee61
+
+Fault: 08.05.2022 11:13:53---Не верный имени фаля или подключение core/user/controllers/AssetsController
+File:C:\OpenServer\domains\cmsmag\public_html\core\base\settings\internal_settings.php
+In linee61
+
+Fault: 08.05.2022 11:13:54---Не верный имени фаля или подключение core/user/controllers/AssetsController
+File:C:\OpenServer\domains\cmsmag\public_html\core\base\settings\internal_settings.php
+In linee61
+
+Fault: 08.05.2022 11:14:05---Не верный имени фаля или подключение core/user/controllers/AssetsController
+File:C:\OpenServer\domains\cmsmag\public_html\core\base\settings\internal_settings.php
+In linee61
+
+Fault: 08.05.2022 11:14:05---Не верный имени фаля или подключение core/user/controllers/AssetsController
+File:C:\OpenServer\domains\cmsmag\public_html\core\base\settings\internal_settings.php
+In linee61
+
+Fault: 08.05.2022 11:14:06---Не верный имени фаля или подключение core/user/controllers/AssetsController
+File:C:\OpenServer\domains\cmsmag\public_html\core\base\settings\internal_settings.php
+In linee61
+
+Fault: 08.05.2022 11:14:06---Не верный имени фаля или подключение core/user/controllers/AssetsController
+File:C:\OpenServer\domains\cmsmag\public_html\core\base\settings\internal_settings.php
+In linee61
+
+Fault: 08.05.2022 11:14:06---Не верный имени фаля или подключение core/user/controllers/AssetsController
+File:C:\OpenServer\domains\cmsmag\public_html\core\base\settings\internal_settings.php
+In linee61
+
+Fault: 08.05.2022 11:14:06---Не верный имени фаля или подключение core/user/controllers/AssetsController
+File:C:\OpenServer\domains\cmsmag\public_html\core\base\settings\internal_settings.php
+In linee61
+
+Fault: 08.05.2022 11:14:06---Не верный имени фаля или подключение core/user/controllers/AssetsController
+File:C:\OpenServer\domains\cmsmag\public_html\core\base\settings\internal_settings.php
+In linee61
+
+Fault: 08.05.2022 11:14:06---Не верный имени фаля или подключение core/user/controllers/AssetsController
+File:C:\OpenServer\domains\cmsmag\public_html\core\base\settings\internal_settings.php
+In linee61
+
+Fault: 08.05.2022 11:14:06---Не верный имени фаля или подключение core/user/controllers/AssetsController
+File:C:\OpenServer\domains\cmsmag\public_html\core\base\settings\internal_settings.php
+In linee61
+
+Fault: 08.05.2022 11:14:06---Не верный имени фаля или подключение core/user/controllers/AssetsController
+File:C:\OpenServer\domains\cmsmag\public_html\core\base\settings\internal_settings.php
+In linee61
+
+Fault: 08.05.2022 11:14:07---Не верный имени фаля или подключение core/user/controllers/AssetsController
+File:C:\OpenServer\domains\cmsmag\public_html\core\base\settings\internal_settings.php
+In linee61
+
+Fault: 08.05.2022 11:14:07---Не верный имени фаля или подключение core/user/controllers/AssetsController
+File:C:\OpenServer\domains\cmsmag\public_html\core\base\settings\internal_settings.php
+In linee61
+
+Fault: 08.05.2022 11:14:07---Не верный имени фаля или подключение core/user/controllers/AssetsController
+File:C:\OpenServer\domains\cmsmag\public_html\core\base\settings\internal_settings.php
+In linee61
+
+Fault: 08.05.2022 11:20:53---Не верный имени фаля или подключение core/user/controllers/AssetsController
+File:C:\OpenServer\domains\cmsmag\public_html\core\base\settings\internal_settings.php
+In linee61
+
+Fault: 08.05.2022 11:20:53---Не верный имени фаля или подключение core/user/controllers/AssetsController
+File:C:\OpenServer\domains\cmsmag\public_html\core\base\settings\internal_settings.php
+In linee61
+
+Fault: 08.05.2022 11:20:54---Не верный имени фаля или подключение core/user/controllers/AssetsController
+File:C:\OpenServer\domains\cmsmag\public_html\core\base\settings\internal_settings.php
+In linee61
+
+Fault: 08.05.2022 11:20:54---Не верный имени фаля или подключение core/user/controllers/AssetsController
+File:C:\OpenServer\domains\cmsmag\public_html\core\base\settings\internal_settings.php
+In linee61
+
+Fault: 08.05.2022 11:20:54---Не верный имени фаля или подключение core/user/controllers/AssetsController
+File:C:\OpenServer\domains\cmsmag\public_html\core\base\settings\internal_settings.php
+In linee61
+
+Fault: 08.05.2022 11:20:54---Не верный имени фаля или подключение core/user/controllers/AssetsController
+File:C:\OpenServer\domains\cmsmag\public_html\core\base\settings\internal_settings.php
+In linee61
+
+Fault: 08.05.2022 11:20:54---Не верный имени фаля или подключение core/user/controllers/AssetsController
+File:C:\OpenServer\domains\cmsmag\public_html\core\base\settings\internal_settings.php
+In linee61
+
+Fault: 08.05.2022 11:20:54---Не верный имени фаля или подключение core/user/controllers/AssetsController
+File:C:\OpenServer\domains\cmsmag\public_html\core\base\settings\internal_settings.php
+In linee61
+
+Fault: 08.05.2022 11:20:54---Не верный имени фаля или подключение core/user/controllers/AssetsController
+File:C:\OpenServer\domains\cmsmag\public_html\core\base\settings\internal_settings.php
+In linee61
+
+Fault: 08.05.2022 11:20:54---Не верный имени фаля или подключение core/user/controllers/AssetsController
+File:C:\OpenServer\domains\cmsmag\public_html\core\base\settings\internal_settings.php
+In linee61
+
+Fault: 08.05.2022 11:20:54---Не верный имени фаля или подключение core/user/controllers/AssetsController
+File:C:\OpenServer\domains\cmsmag\public_html\core\base\settings\internal_settings.php
+In linee61
+
+Fault: 08.05.2022 11:20:54---Не верный имени фаля или подключение core/user/controllers/AssetsController
+File:C:\OpenServer\domains\cmsmag\public_html\core\base\settings\internal_settings.php
+In linee61
+
+Fault: 08.05.2022 11:20:55---Не верный имени фаля или подключение core/user/controllers/AssetsController
+File:C:\OpenServer\domains\cmsmag\public_html\core\base\settings\internal_settings.php
+In linee61
+
+Fault: 08.05.2022 11:22:23---Не верный имени фаля или подключение core/user/controllers/CatalogController
+File:C:\OpenServer\domains\cmsmag\public_html\core\base\settings\internal_settings.php
+In linee61
+
+Fault: 08.05.2022 11:22:25---Не верный имени фаля или подключение core/user/controllers/AssetsController
+File:C:\OpenServer\domains\cmsmag\public_html\core\base\settings\internal_settings.php
+In linee61
+
+Fault: 08.05.2022 11:22:25---Не верный имени фаля или подключение core/user/controllers/AssetsController
+File:C:\OpenServer\domains\cmsmag\public_html\core\base\settings\internal_settings.php
+In linee61
+
+Fault: 08.05.2022 11:22:25---Не верный имени фаля или подключение core/user/controllers/AssetsController
+File:C:\OpenServer\domains\cmsmag\public_html\core\base\settings\internal_settings.php
+In linee61
+
+Fault: 08.05.2022 11:22:25---Не верный имени фаля или подключение core/user/controllers/AssetsController
+File:C:\OpenServer\domains\cmsmag\public_html\core\base\settings\internal_settings.php
+In linee61
+
+Fault: 08.05.2022 11:22:25---Не верный имени фаля или подключение core/user/controllers/AssetsController
+File:C:\OpenServer\domains\cmsmag\public_html\core\base\settings\internal_settings.php
+In linee61
+
+Fault: 08.05.2022 11:22:25---Не верный имени фаля или подключение core/user/controllers/AssetsController
+File:C:\OpenServer\domains\cmsmag\public_html\core\base\settings\internal_settings.php
+In linee61
+
+Fault: 08.05.2022 11:22:25---Не верный имени фаля или подключение core/user/controllers/AssetsController
+File:C:\OpenServer\domains\cmsmag\public_html\core\base\settings\internal_settings.php
+In linee61
+
+Fault: 08.05.2022 11:22:25---Не верный имени фаля или подключение core/user/controllers/AssetsController
+File:C:\OpenServer\domains\cmsmag\public_html\core\base\settings\internal_settings.php
+In linee61
+
+Fault: 08.05.2022 11:22:26---Не верный имени фаля или подключение core/user/controllers/AssetsController
+File:C:\OpenServer\domains\cmsmag\public_html\core\base\settings\internal_settings.php
+In linee61
+
+Fault: 08.05.2022 11:22:26---Не верный имени фаля или подключение core/user/controllers/AssetsController
+File:C:\OpenServer\domains\cmsmag\public_html\core\base\settings\internal_settings.php
+In linee61
+
+Fault: 08.05.2022 11:22:26---Не верный имени фаля или подключение core/user/controllers/AssetsController
+File:C:\OpenServer\domains\cmsmag\public_html\core\base\settings\internal_settings.php
+In linee61
+
+Fault: 08.05.2022 11:22:26---Не верный имени фаля или подключение core/user/controllers/AssetsController
+File:C:\OpenServer\domains\cmsmag\public_html\core\base\settings\internal_settings.php
+In linee61
+
+Fault: 08.05.2022 11:33:01---Не верный имени фаля или подключение core/user/controllers/AssetsController
+File:C:\OpenServer\domains\cmsmag\public_html\core\base\settings\internal_settings.php
+In linee61
+
+Fault: 08.05.2022 11:34:16---Не верный имени фаля или подключение core/user/controllers/AssetsController
+File:C:\OpenServer\domains\cmsmag\public_html\core\base\settings\internal_settings.php
+In linee61
+
+Fault: 08.05.2022 11:34:16---Не верный имени фаля или подключение core/user/controllers/AssetsController
+File:C:\OpenServer\domains\cmsmag\public_html\core\base\settings\internal_settings.php
+In linee61
+
+Fault: 08.05.2022 11:34:16---Не верный имени фаля или подключение core/user/controllers/AssetsController
+File:C:\OpenServer\domains\cmsmag\public_html\core\base\settings\internal_settings.php
+In linee61
+
+Fault: 08.05.2022 11:34:16---Не верный имени фаля или подключение core/user/controllers/AssetsController
+File:C:\OpenServer\domains\cmsmag\public_html\core\base\settings\internal_settings.php
+In linee61
+
+Fault: 08.05.2022 11:34:16---Не верный имени фаля или подключение core/user/controllers/AssetsController
+File:C:\OpenServer\domains\cmsmag\public_html\core\base\settings\internal_settings.php
+In linee61
+
+Fault: 08.05.2022 11:34:16---Не верный имени фаля или подключение core/user/controllers/AssetsController
+File:C:\OpenServer\domains\cmsmag\public_html\core\base\settings\internal_settings.php
+In linee61
+
+Fault: 08.05.2022 11:34:16---Не верный имени фаля или подключение core/user/controllers/AssetsController
+File:C:\OpenServer\domains\cmsmag\public_html\core\base\settings\internal_settings.php
+In linee61
+
+Fault: 08.05.2022 11:34:16---Не верный имени фаля или подключение core/user/controllers/AssetsController
+File:C:\OpenServer\domains\cmsmag\public_html\core\base\settings\internal_settings.php
+In linee61
+
+Fault: 08.05.2022 11:34:17---Не верный имени фаля или подключение core/user/controllers/AssetsController
+File:C:\OpenServer\domains\cmsmag\public_html\core\base\settings\internal_settings.php
+In linee61
+
+Fault: 08.05.2022 11:34:17---Не верный имени фаля или подключение core/user/controllers/AssetsController
+File:C:\OpenServer\domains\cmsmag\public_html\core\base\settings\internal_settings.php
+In linee61
+
+Fault: 08.05.2022 11:34:17---Не верный имени фаля или подключение core/user/controllers/AssetsController
+File:C:\OpenServer\domains\cmsmag\public_html\core\base\settings\internal_settings.php
+In linee61
+
+Fault: 08.05.2022 11:34:17---Не верный имени фаля или подключение core/user/controllers/AssetsController
+File:C:\OpenServer\domains\cmsmag\public_html\core\base\settings\internal_settings.php
+In linee61
+
+Fault: 08.05.2022 11:34:17---Не верный имени фаля или подключение core/user/controllers/AssetsController
+File:C:\OpenServer\domains\cmsmag\public_html\core\base\settings\internal_settings.php
+In linee61
+
+Fault: 08.05.2022 11:34:20---Class "core\user\controllers\FhwjdkahfcA%20KLJOIHJIUAKJSHDCKLController" does not exist
+File:C:\OpenServer\domains\cmsmag\public_html\core\base\controllers\BaseController.php
+In linee42
+
+Fault: 08.05.2022 11:34:30---Не верный имени фаля или подключение core/user/controllers/AssetsController
+File:C:\OpenServer\domains\cmsmag\public_html\core\base\settings\internal_settings.php
+In linee61
+
+Fault: 08.05.2022 11:34:30---Не верный имени фаля или подключение core/user/controllers/AssetsController
+File:C:\OpenServer\domains\cmsmag\public_html\core\base\settings\internal_settings.php
+In linee61
+
+Fault: 08.05.2022 11:34:30---Не верный имени фаля или подключение core/user/controllers/AssetsController
+File:C:\OpenServer\domains\cmsmag\public_html\core\base\settings\internal_settings.php
+In linee61
+
+Fault: 08.05.2022 11:34:30---Не верный имени фаля или подключение core/user/controllers/AssetsController
+File:C:\OpenServer\domains\cmsmag\public_html\core\base\settings\internal_settings.php
+In linee61
+
+Fault: 08.05.2022 11:34:30---Не верный имени фаля или подключение core/user/controllers/AssetsController
+File:C:\OpenServer\domains\cmsmag\public_html\core\base\settings\internal_settings.php
+In linee61
+
+Fault: 08.05.2022 11:34:30---Не верный имени фаля или подключение core/user/controllers/AssetsController
+File:C:\OpenServer\domains\cmsmag\public_html\core\base\settings\internal_settings.php
+In linee61
+
+Fault: 08.05.2022 11:34:30---Не верный имени фаля или подключение core/user/controllers/AssetsController
+File:C:\OpenServer\domains\cmsmag\public_html\core\base\settings\internal_settings.php
+In linee61
+
+Fault: 08.05.2022 11:34:31---Не верный имени фаля или подключение core/user/controllers/AssetsController
+File:C:\OpenServer\domains\cmsmag\public_html\core\base\settings\internal_settings.php
+In linee61
+
+Fault: 08.05.2022 11:34:31---Не верный имени фаля или подключение core/user/controllers/AssetsController
+File:C:\OpenServer\domains\cmsmag\public_html\core\base\settings\internal_settings.php
+In linee61
+
+Fault: 08.05.2022 11:34:31---Не верный имени фаля или подключение core/user/controllers/AssetsController
+File:C:\OpenServer\domains\cmsmag\public_html\core\base\settings\internal_settings.php
+In linee61
+
+Fault: 08.05.2022 11:34:31---Не верный имени фаля или подключение core/user/controllers/AssetsController
+File:C:\OpenServer\domains\cmsmag\public_html\core\base\settings\internal_settings.php
+In linee61
+
+Fault: 08.05.2022 11:34:31---Не верный имени фаля или подключение core/user/controllers/AssetsController
+File:C:\OpenServer\domains\cmsmag\public_html\core\base\settings\internal_settings.php
+In linee61
+
+Fault: 08.05.2022 11:34:31---Не верный имени фаля или подключение core/user/controllers/AssetsController
+File:C:\OpenServer\domains\cmsmag\public_html\core\base\settings\internal_settings.php
+In linee61
+
+Fault: 08.05.2022 11:34:47---Не верный имени фаля или подключение core/user/controllers/AssetsController
+File:C:\OpenServer\domains\cmsmag\public_html\core\base\settings\internal_settings.php
+In linee61
+
+Fault: 08.05.2022 11:34:47---Не верный имени фаля или подключение core/user/controllers/AssetsController
+File:C:\OpenServer\domains\cmsmag\public_html\core\base\settings\internal_settings.php
+In linee61
+
+Fault: 08.05.2022 11:34:47---Не верный имени фаля или подключение core/user/controllers/AssetsController
+File:C:\OpenServer\domains\cmsmag\public_html\core\base\settings\internal_settings.php
+In linee61
+
+Fault: 08.05.2022 11:34:47---Не верный имени фаля или подключение core/user/controllers/AssetsController
+File:C:\OpenServer\domains\cmsmag\public_html\core\base\settings\internal_settings.php
+In linee61
+
+Fault: 08.05.2022 11:34:47---Не верный имени фаля или подключение core/user/controllers/AssetsController
+File:C:\OpenServer\domains\cmsmag\public_html\core\base\settings\internal_settings.php
+In linee61
+
+Fault: 08.05.2022 11:34:48---Не верный имени фаля или подключение core/user/controllers/AssetsController
+File:C:\OpenServer\domains\cmsmag\public_html\core\base\settings\internal_settings.php
+In linee61
+
+Fault: 08.05.2022 11:34:48---Не верный имени фаля или подключение core/user/controllers/AssetsController
+File:C:\OpenServer\domains\cmsmag\public_html\core\base\settings\internal_settings.php
+In linee61
+
+Fault: 08.05.2022 11:34:48---Не верный имени фаля или подключение core/user/controllers/AssetsController
+File:C:\OpenServer\domains\cmsmag\public_html\core\base\settings\internal_settings.php
+In linee61
+
+Fault: 08.05.2022 11:34:48---Не верный имени фаля или подключение core/user/controllers/AssetsController
+File:C:\OpenServer\domains\cmsmag\public_html\core\base\settings\internal_settings.php
+In linee61
+
+Fault: 08.05.2022 11:34:48---Не верный имени фаля или подключение core/user/controllers/AssetsController
+File:C:\OpenServer\domains\cmsmag\public_html\core\base\settings\internal_settings.php
+In linee61
+
+Fault: 08.05.2022 11:34:48---Не верный имени фаля или подключение core/user/controllers/AssetsController
+File:C:\OpenServer\domains\cmsmag\public_html\core\base\settings\internal_settings.php
+In linee61
+
+Fault: 08.05.2022 11:34:48---Не верный имени фаля или подключение core/user/controllers/AssetsController
+File:C:\OpenServer\domains\cmsmag\public_html\core\base\settings\internal_settings.php
+In linee61
+
+Fault: 08.05.2022 11:34:48---Не верный имени фаля или подключение core/user/controllers/AssetsController
+File:C:\OpenServer\domains\cmsmag\public_html\core\base\settings\internal_settings.php
+In linee61
+
+Fault: 08.05.2022 11:35:56---Не верный имени фаля или подключение core/user/controllers/AssetsController
+File:C:\OpenServer\domains\cmsmag\public_html\core\base\settings\internal_settings.php
+In linee61
+
+Fault: 08.05.2022 11:35:56---Не верный имени фаля или подключение core/user/controllers/AssetsController
+File:C:\OpenServer\domains\cmsmag\public_html\core\base\settings\internal_settings.php
+In linee61
+
+Fault: 08.05.2022 11:35:57---Не верный имени фаля или подключение core/user/controllers/AssetsController
+File:C:\OpenServer\domains\cmsmag\public_html\core\base\settings\internal_settings.php
+In linee61
+
+Fault: 08.05.2022 11:35:57---Не верный имени фаля или подключение core/user/controllers/AssetsController
+File:C:\OpenServer\domains\cmsmag\public_html\core\base\settings\internal_settings.php
+In linee61
+
+Fault: 08.05.2022 11:35:57---Не верный имени фаля или подключение core/user/controllers/AssetsController
+File:C:\OpenServer\domains\cmsmag\public_html\core\base\settings\internal_settings.php
+In linee61
+
+Fault: 08.05.2022 11:35:57---Не верный имени фаля или подключение core/user/controllers/AssetsController
+File:C:\OpenServer\domains\cmsmag\public_html\core\base\settings\internal_settings.php
+In linee61
+
+Fault: 08.05.2022 11:35:57---Не верный имени фаля или подключение core/user/controllers/AssetsController
+File:C:\OpenServer\domains\cmsmag\public_html\core\base\settings\internal_settings.php
+In linee61
+
+Fault: 08.05.2022 11:35:57---Не верный имени фаля или подключение core/user/controllers/AssetsController
+File:C:\OpenServer\domains\cmsmag\public_html\core\base\settings\internal_settings.php
+In linee61
+
+Fault: 08.05.2022 11:35:57---Не верный имени фаля или подключение core/user/controllers/AssetsController
+File:C:\OpenServer\domains\cmsmag\public_html\core\base\settings\internal_settings.php
+In linee61
+
+Fault: 08.05.2022 11:35:57---Не верный имени фаля или подключение core/user/controllers/AssetsController
+File:C:\OpenServer\domains\cmsmag\public_html\core\base\settings\internal_settings.php
+In linee61
+
+Fault: 08.05.2022 11:35:57---Не верный имени фаля или подключение core/user/controllers/AssetsController
+File:C:\OpenServer\domains\cmsmag\public_html\core\base\settings\internal_settings.php
+In linee61
+
+Fault: 08.05.2022 11:35:58---Не верный имени фаля или подключение core/user/controllers/AssetsController
+File:C:\OpenServer\domains\cmsmag\public_html\core\base\settings\internal_settings.php
+In linee61
+
+Fault: 08.05.2022 11:35:58---Не верный имени фаля или подключение core/user/controllers/AssetsController
+File:C:\OpenServer\domains\cmsmag\public_html\core\base\settings\internal_settings.php
+In linee61
+
+Fault: 08.05.2022 11:37:49---Class "core\user\controllers\FhwjdkahfcA%20KLJOIHJIUAKJSHDCKLController" does not exist
+File:C:\OpenServer\domains\cmsmag\public_html\core\base\controllers\BaseController.php
+In linee42
+
+Fault: 08.05.2022 11:37:51---Не верный имени фаля или подключение core/user/controllers/AssetsController
+File:C:\OpenServer\domains\cmsmag\public_html\core\base\settings\internal_settings.php
+In linee61
+
+Fault: 08.05.2022 11:37:52---Не верный имени фаля или подключение core/user/controllers/AssetsController
+File:C:\OpenServer\domains\cmsmag\public_html\core\base\settings\internal_settings.php
+In linee61
+
+Fault: 08.05.2022 11:37:52---Не верный имени фаля или подключение core/user/controllers/AssetsController
+File:C:\OpenServer\domains\cmsmag\public_html\core\base\settings\internal_settings.php
+In linee61
+
+Fault: 08.05.2022 11:37:52---Не верный имени фаля или подключение core/user/controllers/AssetsController
+File:C:\OpenServer\domains\cmsmag\public_html\core\base\settings\internal_settings.php
+In linee61
+
+Fault: 08.05.2022 11:37:52---Не верный имени фаля или подключение core/user/controllers/AssetsController
+File:C:\OpenServer\domains\cmsmag\public_html\core\base\settings\internal_settings.php
+In linee61
+
+Fault: 08.05.2022 11:37:52---Не верный имени фаля или подключение core/user/controllers/AssetsController
+File:C:\OpenServer\domains\cmsmag\public_html\core\base\settings\internal_settings.php
+In linee61
+
+Fault: 08.05.2022 11:37:52---Не верный имени фаля или подключение core/user/controllers/AssetsController
+File:C:\OpenServer\domains\cmsmag\public_html\core\base\settings\internal_settings.php
+In linee61
+
+Fault: 08.05.2022 11:37:52---Не верный имени фаля или подключение core/user/controllers/AssetsController
+File:C:\OpenServer\domains\cmsmag\public_html\core\base\settings\internal_settings.php
+In linee61
+
+Fault: 08.05.2022 11:37:52---Не верный имени фаля или подключение core/user/controllers/AssetsController
+File:C:\OpenServer\domains\cmsmag\public_html\core\base\settings\internal_settings.php
+In linee61
+
+Fault: 08.05.2022 11:37:52---Не верный имени фаля или подключение core/user/controllers/AssetsController
+File:C:\OpenServer\domains\cmsmag\public_html\core\base\settings\internal_settings.php
+In linee61
+
+Fault: 08.05.2022 11:37:53---Не верный имени фаля или подключение core/user/controllers/AssetsController
+File:C:\OpenServer\domains\cmsmag\public_html\core\base\settings\internal_settings.php
+In linee61
+
+Fault: 08.05.2022 11:37:53---Не верный имени фаля или подключение core/user/controllers/AssetsController
+File:C:\OpenServer\domains\cmsmag\public_html\core\base\settings\internal_settings.php
+In linee61
+
+Fault: 08.05.2022 11:37:56---Не верный имени фаля или подключение core/user/controllers/TemplatesController
+File:C:\OpenServer\domains\cmsmag\public_html\core\base\settings\internal_settings.php
+In linee61
+
+Fault: 08.05.2022 11:40:38---Не верный имени фаля или подключение core/user/controllers/TemplatesController
+File:C:\OpenServer\domains\cmsmag\public_html\core\base\settings\internal_settings.php
+In linee61
+
+Fault: 08.05.2022 11:42:18---Не верный имени фаля или подключение core/user/controllers/AssetsController
+File:C:\OpenServer\domains\cmsmag\public_html\core\base\settings\internal_settings.php
+In linee61
+
+Fault: 08.05.2022 11:42:19---Не верный имени фаля или подключение core/user/controllers/AssetsController
+File:C:\OpenServer\domains\cmsmag\public_html\core\base\settings\internal_settings.php
+In linee61
+
+Fault: 08.05.2022 11:42:19---Не верный имени фаля или подключение core/user/controllers/AssetsController
+File:C:\OpenServer\domains\cmsmag\public_html\core\base\settings\internal_settings.php
+In linee61
+
+Fault: 08.05.2022 11:42:19---Не верный имени фаля или подключение core/user/controllers/AssetsController
+File:C:\OpenServer\domains\cmsmag\public_html\core\base\settings\internal_settings.php
+In linee61
+
+Fault: 08.05.2022 11:42:19---Не верный имени фаля или подключение core/user/controllers/AssetsController
+File:C:\OpenServer\domains\cmsmag\public_html\core\base\settings\internal_settings.php
+In linee61
+
+Fault: 08.05.2022 11:42:19---Не верный имени фаля или подключение core/user/controllers/AssetsController
+File:C:\OpenServer\domains\cmsmag\public_html\core\base\settings\internal_settings.php
+In linee61
+
+Fault: 08.05.2022 11:42:19---Не верный имени фаля или подключение core/user/controllers/AssetsController
+File:C:\OpenServer\domains\cmsmag\public_html\core\base\settings\internal_settings.php
+In linee61
+
+Fault: 08.05.2022 11:42:19---Не верный имени фаля или подключение core/user/controllers/AssetsController
+File:C:\OpenServer\domains\cmsmag\public_html\core\base\settings\internal_settings.php
+In linee61
+
+Fault: 08.05.2022 11:42:19---Не верный имени фаля или подключение core/user/controllers/TemplatesController
+File:C:\OpenServer\domains\cmsmag\public_html\core\base\settings\internal_settings.php
+In linee61
+
+Fault: 08.05.2022 11:42:19---Не верный имени фаля или подключение core/user/controllers/AssetsController
+File:C:\OpenServer\domains\cmsmag\public_html\core\base\settings\internal_settings.php
+In linee61
+
+Fault: 08.05.2022 11:42:20---Не верный имени фаля или подключение core/user/controllers/AssetsController
+File:C:\OpenServer\domains\cmsmag\public_html\core\base\settings\internal_settings.php
+In linee61
+
+Fault: 08.05.2022 11:42:20---Не верный имени фаля или подключение core/user/controllers/AssetsController
+File:C:\OpenServer\domains\cmsmag\public_html\core\base\settings\internal_settings.php
+In linee61
+
+Fault: 08.05.2022 11:42:20---Не верный имени фаля или подключение core/user/controllers/AssetsController
+File:C:\OpenServer\domains\cmsmag\public_html\core\base\settings\internal_settings.php
+In linee61
+
+Fault: 08.05.2022 11:42:20---Не верный имени фаля или подключение core/user/controllers/AssetsController
+File:C:\OpenServer\domains\cmsmag\public_html\core\base\settings\internal_settings.php
+In linee61
+
+Fault: 08.05.2022 11:44:38---Не верный имени фаля или подключение core/user/controllers/AssetsController
+File:C:\OpenServer\domains\cmsmag\public_html\core\base\settings\internal_settings.php
+In linee61
+
+Fault: 08.05.2022 11:44:38---Не верный имени фаля или подключение core/user/controllers/AssetsController
+File:C:\OpenServer\domains\cmsmag\public_html\core\base\settings\internal_settings.php
+In linee61
+
+Fault: 08.05.2022 11:44:38---Не верный имени фаля или подключение core/user/controllers/AssetsController
+File:C:\OpenServer\domains\cmsmag\public_html\core\base\settings\internal_settings.php
+In linee61
+
+Fault: 08.05.2022 11:44:38---Не верный имени фаля или подключение core/user/controllers/AssetsController
+File:C:\OpenServer\domains\cmsmag\public_html\core\base\settings\internal_settings.php
+In linee61
+
+Fault: 08.05.2022 11:44:38---Не верный имени фаля или подключение core/user/controllers/AssetsController
+File:C:\OpenServer\domains\cmsmag\public_html\core\base\settings\internal_settings.php
+In linee61
+
+Fault: 08.05.2022 11:44:38---Не верный имени фаля или подключение core/user/controllers/AssetsController
+File:C:\OpenServer\domains\cmsmag\public_html\core\base\settings\internal_settings.php
+In linee61
+
+Fault: 08.05.2022 11:44:38---Не верный имени фаля или подключение core/user/controllers/AssetsController
+File:C:\OpenServer\domains\cmsmag\public_html\core\base\settings\internal_settings.php
+In linee61
+
+Fault: 08.05.2022 11:44:38---Не верный имени фаля или подключение core/user/controllers/AssetsController
+File:C:\OpenServer\domains\cmsmag\public_html\core\base\settings\internal_settings.php
+In linee61
+
+Fault: 08.05.2022 11:44:39---Не верный имени фаля или подключение core/user/controllers/AssetsController
+File:C:\OpenServer\domains\cmsmag\public_html\core\base\settings\internal_settings.php
+In linee61
+
+Fault: 08.05.2022 11:44:39---Не верный имени фаля или подключение core/user/controllers/AssetsController
+File:C:\OpenServer\domains\cmsmag\public_html\core\base\settings\internal_settings.php
+In linee61
+
+Fault: 08.05.2022 11:44:39---Не верный имени фаля или подключение core/user/controllers/AssetsController
+File:C:\OpenServer\domains\cmsmag\public_html\core\base\settings\internal_settings.php
+In linee61
+
+Fault: 08.05.2022 11:44:39---Не верный имени фаля или подключение core/user/controllers/AssetsController
+File:C:\OpenServer\domains\cmsmag\public_html\core\base\settings\internal_settings.php
+In linee61
+
+Fault: 08.05.2022 11:44:39---Не верный имени фаля или подключение core/user/controllers/AssetsController
+File:C:\OpenServer\domains\cmsmag\public_html\core\base\settings\internal_settings.php
+In linee61
+
+Fault: 08.05.2022 11:45:20---Не верный имени фаля или подключение core/user/controllers/AssetsController
+File:C:\OpenServer\domains\cmsmag\public_html\core\base\settings\internal_settings.php
+In linee61
+
+Fault: 08.05.2022 11:45:20---Не верный имени фаля или подключение core/user/controllers/AssetsController
+File:C:\OpenServer\domains\cmsmag\public_html\core\base\settings\internal_settings.php
+In linee61
+
+Fault: 08.05.2022 11:45:20---Не верный имени фаля или подключение core/user/controllers/AssetsController
+File:C:\OpenServer\domains\cmsmag\public_html\core\base\settings\internal_settings.php
+In linee61
+
+Fault: 08.05.2022 11:45:21---Не верный имени фаля или подключение core/user/controllers/AssetsController
+File:C:\OpenServer\domains\cmsmag\public_html\core\base\settings\internal_settings.php
+In linee61
+
+Fault: 08.05.2022 11:45:21---Не верный имени фаля или подключение core/user/controllers/AssetsController
+File:C:\OpenServer\domains\cmsmag\public_html\core\base\settings\internal_settings.php
+In linee61
+
+Fault: 08.05.2022 11:45:21---Не верный имени фаля или подключение core/user/controllers/AssetsController
+File:C:\OpenServer\domains\cmsmag\public_html\core\base\settings\internal_settings.php
+In linee61
+
+Fault: 08.05.2022 11:45:21---Не верный имени фаля или подключение core/user/controllers/AssetsController
+File:C:\OpenServer\domains\cmsmag\public_html\core\base\settings\internal_settings.php
+In linee61
+
+Fault: 08.05.2022 11:45:21---Не верный имени фаля или подключение core/user/controllers/AssetsController
+File:C:\OpenServer\domains\cmsmag\public_html\core\base\settings\internal_settings.php
+In linee61
+
+Fault: 08.05.2022 11:45:21---Не верный имени фаля или подключение core/user/controllers/AssetsController
+File:C:\OpenServer\domains\cmsmag\public_html\core\base\settings\internal_settings.php
+In linee61
+
+Fault: 08.05.2022 11:45:21---Не верный имени фаля или подключение core/user/controllers/AssetsController
+File:C:\OpenServer\domains\cmsmag\public_html\core\base\settings\internal_settings.php
+In linee61
+
+Fault: 08.05.2022 11:45:21---Не верный имени фаля или подключение core/user/controllers/AssetsController
+File:C:\OpenServer\domains\cmsmag\public_html\core\base\settings\internal_settings.php
+In linee61
+
+Fault: 08.05.2022 11:45:21---Не верный имени фаля или подключение core/user/controllers/AssetsController
+File:C:\OpenServer\domains\cmsmag\public_html\core\base\settings\internal_settings.php
+In linee61
+
+Fault: 08.05.2022 11:45:22---Не верный имени фаля или подключение core/user/controllers/AssetsController
+File:C:\OpenServer\domains\cmsmag\public_html\core\base\settings\internal_settings.php
+In linee61
+
+Fault: 08.05.2022 11:45:52---Не верный имени фаля или подключение core/user/controllers/AssetsController
+File:C:\OpenServer\domains\cmsmag\public_html\core\base\settings\internal_settings.php
+In linee61
+
+Fault: 08.05.2022 11:45:52---Не верный имени фаля или подключение core/user/controllers/AssetsController
+File:C:\OpenServer\domains\cmsmag\public_html\core\base\settings\internal_settings.php
+In linee61
+
+Fault: 08.05.2022 11:45:53---Не верный имени фаля или подключение core/user/controllers/AssetsController
+File:C:\OpenServer\domains\cmsmag\public_html\core\base\settings\internal_settings.php
+In linee61
+
+Fault: 08.05.2022 11:45:53---Не верный имени фаля или подключение core/user/controllers/AssetsController
+File:C:\OpenServer\domains\cmsmag\public_html\core\base\settings\internal_settings.php
+In linee61
+
+Fault: 08.05.2022 11:45:53---Не верный имени фаля или подключение core/user/controllers/AssetsController
+File:C:\OpenServer\domains\cmsmag\public_html\core\base\settings\internal_settings.php
+In linee61
+
+Fault: 08.05.2022 11:45:53---Не верный имени фаля или подключение core/user/controllers/AssetsController
+File:C:\OpenServer\domains\cmsmag\public_html\core\base\settings\internal_settings.php
+In linee61
+
+Fault: 08.05.2022 11:45:53---Не верный имени фаля или подключение core/user/controllers/AssetsController
+File:C:\OpenServer\domains\cmsmag\public_html\core\base\settings\internal_settings.php
+In linee61
+
+Fault: 08.05.2022 11:45:53---Не верный имени фаля или подключение core/user/controllers/AssetsController
+File:C:\OpenServer\domains\cmsmag\public_html\core\base\settings\internal_settings.php
+In linee61
+
+Fault: 08.05.2022 11:45:53---Не верный имени фаля или подключение core/user/controllers/AssetsController
+File:C:\OpenServer\domains\cmsmag\public_html\core\base\settings\internal_settings.php
+In linee61
+
+Fault: 08.05.2022 11:45:53---Не верный имени фаля или подключение core/user/controllers/AssetsController
+File:C:\OpenServer\domains\cmsmag\public_html\core\base\settings\internal_settings.php
+In linee61
+
+Fault: 08.05.2022 11:45:53---Не верный имени фаля или подключение core/user/controllers/AssetsController
+File:C:\OpenServer\domains\cmsmag\public_html\core\base\settings\internal_settings.php
+In linee61
+
+Fault: 08.05.2022 11:45:53---Не верный имени фаля или подключение core/user/controllers/AssetsController
+File:C:\OpenServer\domains\cmsmag\public_html\core\base\settings\internal_settings.php
+In linee61
+
+Fault: 08.05.2022 11:45:54---Не верный имени фаля или подключение core/user/controllers/AssetsController
+File:C:\OpenServer\domains\cmsmag\public_html\core\base\settings\internal_settings.php
+In linee61
+
+Fault: 08.05.2022 11:45:55---Не верный имени фаля или подключение core/user/controllers/CatalogController
+File:C:\OpenServer\domains\cmsmag\public_html\core\base\settings\internal_settings.php
+In linee61
+
+Fault: 08.05.2022 11:45:57---Не верный имени фаля или подключение core/user/controllers/AssetsController
+File:C:\OpenServer\domains\cmsmag\public_html\core\base\settings\internal_settings.php
+In linee61
+
+Fault: 08.05.2022 11:45:57---Не верный имени фаля или подключение core/user/controllers/AssetsController
+File:C:\OpenServer\domains\cmsmag\public_html\core\base\settings\internal_settings.php
+In linee61
+
+Fault: 08.05.2022 11:45:57---Не верный имени фаля или подключение core/user/controllers/AssetsController
+File:C:\OpenServer\domains\cmsmag\public_html\core\base\settings\internal_settings.php
+In linee61
+
+Fault: 08.05.2022 11:45:57---Не верный имени фаля или подключение core/user/controllers/AssetsController
+File:C:\OpenServer\domains\cmsmag\public_html\core\base\settings\internal_settings.php
+In linee61
+
+Fault: 08.05.2022 11:45:58---Не верный имени фаля или подключение core/user/controllers/AssetsController
+File:C:\OpenServer\domains\cmsmag\public_html\core\base\settings\internal_settings.php
+In linee61
+
+Fault: 08.05.2022 11:45:58---Не верный имени фаля или подключение core/user/controllers/AssetsController
+File:C:\OpenServer\domains\cmsmag\public_html\core\base\settings\internal_settings.php
+In linee61
+
+Fault: 08.05.2022 11:45:58---Не верный имени фаля или подключение core/user/controllers/AssetsController
+File:C:\OpenServer\domains\cmsmag\public_html\core\base\settings\internal_settings.php
+In linee61
+
+Fault: 08.05.2022 11:45:58---Не верный имени фаля или подключение core/user/controllers/AssetsController
+File:C:\OpenServer\domains\cmsmag\public_html\core\base\settings\internal_settings.php
+In linee61
+
+Fault: 08.05.2022 11:45:58---Не верный имени фаля или подключение core/user/controllers/AssetsController
+File:C:\OpenServer\domains\cmsmag\public_html\core\base\settings\internal_settings.php
+In linee61
+
+Fault: 08.05.2022 11:45:58---Не верный имени фаля или подключение core/user/controllers/AssetsController
+File:C:\OpenServer\domains\cmsmag\public_html\core\base\settings\internal_settings.php
+In linee61
+
+Fault: 08.05.2022 11:45:58---Не верный имени фаля или подключение core/user/controllers/AssetsController
+File:C:\OpenServer\domains\cmsmag\public_html\core\base\settings\internal_settings.php
+In linee61
+
+Fault: 08.05.2022 11:45:58---Не верный имени фаля или подключение core/user/controllers/AssetsController
+File:C:\OpenServer\domains\cmsmag\public_html\core\base\settings\internal_settings.php
+In linee61
+
+Fault: 08.05.2022 11:48:14---Не верный имени фаля или подключение core/user/controllers/AssetsController
+File:C:\OpenServer\domains\cmsmag\public_html\core\base\settings\internal_settings.php
+In linee61
+
+Fault: 08.05.2022 11:48:15---Не верный имени фаля или подключение core/user/controllers/AssetsController
+File:C:\OpenServer\domains\cmsmag\public_html\core\base\settings\internal_settings.php
+In linee61
+
+Fault: 08.05.2022 11:48:15---Не верный имени фаля или подключение core/user/controllers/AssetsController
+File:C:\OpenServer\domains\cmsmag\public_html\core\base\settings\internal_settings.php
+In linee61
+
+Fault: 08.05.2022 11:48:15---Не верный имени фаля или подключение core/user/controllers/AssetsController
+File:C:\OpenServer\domains\cmsmag\public_html\core\base\settings\internal_settings.php
+In linee61
+
+Fault: 08.05.2022 11:48:15---Не верный имени фаля или подключение core/user/controllers/AssetsController
+File:C:\OpenServer\domains\cmsmag\public_html\core\base\settings\internal_settings.php
+In linee61
+
+Fault: 08.05.2022 11:48:15---Не верный имени фаля или подключение core/user/controllers/AssetsController
+File:C:\OpenServer\domains\cmsmag\public_html\core\base\settings\internal_settings.php
+In linee61
+
+Fault: 08.05.2022 11:48:15---Не верный имени фаля или подключение core/user/controllers/AssetsController
+File:C:\OpenServer\domains\cmsmag\public_html\core\base\settings\internal_settings.php
+In linee61
+
+Fault: 08.05.2022 11:48:15---Не верный имени фаля или подключение core/user/controllers/AssetsController
+File:C:\OpenServer\domains\cmsmag\public_html\core\base\settings\internal_settings.php
+In linee61
+
+Fault: 08.05.2022 11:48:15---Не верный имени фаля или подключение core/user/controllers/AssetsController
+File:C:\OpenServer\domains\cmsmag\public_html\core\base\settings\internal_settings.php
+In linee61
+
+Fault: 08.05.2022 11:48:15---Не верный имени фаля или подключение core/user/controllers/AssetsController
+File:C:\OpenServer\domains\cmsmag\public_html\core\base\settings\internal_settings.php
+In linee61
+
+Fault: 08.05.2022 11:48:16---Не верный имени фаля или подключение core/user/controllers/AssetsController
+File:C:\OpenServer\domains\cmsmag\public_html\core\base\settings\internal_settings.php
+In linee61
+
+Fault: 08.05.2022 11:48:16---Не верный имени фаля или подключение core/user/controllers/AssetsController
+File:C:\OpenServer\domains\cmsmag\public_html\core\base\settings\internal_settings.php
+In linee61
+
+Fault: 08.05.2022 11:48:16---Не верный имени фаля или подключение core/user/controllers/AssetsController
+File:C:\OpenServer\domains\cmsmag\public_html\core\base\settings\internal_settings.php
+In linee61
+
+Fault: 08.05.2022 11:48:44---Не верный имени фаля или подключение core/user/controllers/AssetsController
+File:C:\OpenServer\domains\cmsmag\public_html\core\base\settings\internal_settings.php
+In linee61
+
+Fault: 08.05.2022 11:48:45---Не верный имени фаля или подключение core/user/controllers/AssetsController
+File:C:\OpenServer\domains\cmsmag\public_html\core\base\settings\internal_settings.php
+In linee61
+
+Fault: 08.05.2022 11:48:45---Не верный имени фаля или подключение core/user/controllers/AssetsController
+File:C:\OpenServer\domains\cmsmag\public_html\core\base\settings\internal_settings.php
+In linee61
+
+Fault: 08.05.2022 11:48:45---Не верный имени фаля или подключение core/user/controllers/AssetsController
+File:C:\OpenServer\domains\cmsmag\public_html\core\base\settings\internal_settings.php
+In linee61
+
+Fault: 08.05.2022 11:48:45---Не верный имени фаля или подключение core/user/controllers/AssetsController
+File:C:\OpenServer\domains\cmsmag\public_html\core\base\settings\internal_settings.php
+In linee61
+
+Fault: 08.05.2022 11:48:45---Не верный имени фаля или подключение core/user/controllers/AssetsController
+File:C:\OpenServer\domains\cmsmag\public_html\core\base\settings\internal_settings.php
+In linee61
+
+Fault: 08.05.2022 11:48:45---Не верный имени фаля или подключение core/user/controllers/AssetsController
+File:C:\OpenServer\domains\cmsmag\public_html\core\base\settings\internal_settings.php
+In linee61
+
+Fault: 08.05.2022 11:48:45---Не верный имени фаля или подключение core/user/controllers/AssetsController
+File:C:\OpenServer\domains\cmsmag\public_html\core\base\settings\internal_settings.php
+In linee61
+
+Fault: 08.05.2022 11:48:45---Не верный имени фаля или подключение core/user/controllers/AssetsController
+File:C:\OpenServer\domains\cmsmag\public_html\core\base\settings\internal_settings.php
+In linee61
+
+Fault: 08.05.2022 11:48:45---Не верный имени фаля или подключение core/user/controllers/AssetsController
+File:C:\OpenServer\domains\cmsmag\public_html\core\base\settings\internal_settings.php
+In linee61
+
+Fault: 08.05.2022 11:48:45---Не верный имени фаля или подключение core/user/controllers/AssetsController
+File:C:\OpenServer\domains\cmsmag\public_html\core\base\settings\internal_settings.php
+In linee61
+
+Fault: 08.05.2022 11:48:46---Не верный имени фаля или подключение core/user/controllers/AssetsController
+File:C:\OpenServer\domains\cmsmag\public_html\core\base\settings\internal_settings.php
+In linee61
+
+Fault: 08.05.2022 11:48:46---Не верный имени фаля или подключение core/user/controllers/AssetsController
+File:C:\OpenServer\domains\cmsmag\public_html\core\base\settings\internal_settings.php
+In linee61
+
+Fault: 08.05.2022 11:58:21---Не верный имени фаля или подключение core/user/controllers/AssetsController
+File:C:\OpenServer\domains\cmsmag\public_html\core\base\settings\internal_settings.php
+In linee61
+
+Fault: 08.05.2022 11:58:21---Не верный имени фаля или подключение core/user/controllers/AssetsController
+File:C:\OpenServer\domains\cmsmag\public_html\core\base\settings\internal_settings.php
+In linee61
+
+Fault: 08.05.2022 11:58:21---Не верный имени фаля или подключение core/user/controllers/AssetsController
+File:C:\OpenServer\domains\cmsmag\public_html\core\base\settings\internal_settings.php
+In linee61
+
+Fault: 08.05.2022 11:58:22---Не верный имени фаля или подключение core/user/controllers/AssetsController
+File:C:\OpenServer\domains\cmsmag\public_html\core\base\settings\internal_settings.php
+In linee61
+
+Fault: 08.05.2022 11:58:22---Не верный имени фаля или подключение core/user/controllers/AssetsController
+File:C:\OpenServer\domains\cmsmag\public_html\core\base\settings\internal_settings.php
+In linee61
+
+Fault: 08.05.2022 11:58:22---Не верный имени фаля или подключение core/user/controllers/AssetsController
+File:C:\OpenServer\domains\cmsmag\public_html\core\base\settings\internal_settings.php
+In linee61
+
+Fault: 08.05.2022 11:58:22---Не верный имени фаля или подключение core/user/controllers/AssetsController
+File:C:\OpenServer\domains\cmsmag\public_html\core\base\settings\internal_settings.php
+In linee61
+
+Fault: 08.05.2022 11:58:22---Не верный имени фаля или подключение core/user/controllers/AssetsController
+File:C:\OpenServer\domains\cmsmag\public_html\core\base\settings\internal_settings.php
+In linee61
+
+Fault: 08.05.2022 11:58:22---Не верный имени фаля или подключение core/user/controllers/AssetsController
+File:C:\OpenServer\domains\cmsmag\public_html\core\base\settings\internal_settings.php
+In linee61
+
+Fault: 08.05.2022 11:58:22---Не верный имени фаля или подключение core/user/controllers/AssetsController
+File:C:\OpenServer\domains\cmsmag\public_html\core\base\settings\internal_settings.php
+In linee61
+
+Fault: 08.05.2022 11:58:22---Не верный имени фаля или подключение core/user/controllers/AssetsController
+File:C:\OpenServer\domains\cmsmag\public_html\core\base\settings\internal_settings.php
+In linee61
+
+Fault: 08.05.2022 11:58:22---Не верный имени фаля или подключение core/user/controllers/AssetsController
+File:C:\OpenServer\domains\cmsmag\public_html\core\base\settings\internal_settings.php
+In linee61
+
+Fault: 08.05.2022 11:58:23---Не верный имени фаля или подключение core/user/controllers/AssetsController
+File:C:\OpenServer\domains\cmsmag\public_html\core\base\settings\internal_settings.php
+In linee61
+
+Fault: 08.05.2022 11:58:25---Не верный имени фаля или подключение core/user/controllers/NewController
+File:C:\OpenServer\domains\cmsmag\public_html\core\base\settings\internal_settings.php
+In linee61
+
+Fault: 08.05.2022 11:59:29---Не верный имени фаля или подключение core/user/controllers/AssetsController
+File:C:\OpenServer\domains\cmsmag\public_html\core\base\settings\internal_settings.php
+In linee61
+
+Fault: 08.05.2022 11:59:29---Не верный имени фаля или подключение core/user/controllers/AssetsController
+File:C:\OpenServer\domains\cmsmag\public_html\core\base\settings\internal_settings.php
+In linee61
+
+Fault: 08.05.2022 11:59:29---Не верный имени фаля или подключение core/user/controllers/AssetsController
+File:C:\OpenServer\domains\cmsmag\public_html\core\base\settings\internal_settings.php
+In linee61
+
+Fault: 08.05.2022 11:59:29---Не верный имени фаля или подключение core/user/controllers/AssetsController
+File:C:\OpenServer\domains\cmsmag\public_html\core\base\settings\internal_settings.php
+In linee61
+
+Fault: 08.05.2022 11:59:29---Не верный имени фаля или подключение core/user/controllers/AssetsController
+File:C:\OpenServer\domains\cmsmag\public_html\core\base\settings\internal_settings.php
+In linee61
+
+Fault: 08.05.2022 11:59:29---Не верный имени фаля или подключение core/user/controllers/AssetsController
+File:C:\OpenServer\domains\cmsmag\public_html\core\base\settings\internal_settings.php
+In linee61
+
+Fault: 08.05.2022 11:59:29---Не верный имени фаля или подключение core/user/controllers/AssetsController
+File:C:\OpenServer\domains\cmsmag\public_html\core\base\settings\internal_settings.php
+In linee61
+
+Fault: 08.05.2022 11:59:29---Не верный имени фаля или подключение core/user/controllers/AssetsController
+File:C:\OpenServer\domains\cmsmag\public_html\core\base\settings\internal_settings.php
+In linee61
+
+Fault: 08.05.2022 11:59:29---Не верный имени фаля или подключение core/user/controllers/AssetsController
+File:C:\OpenServer\domains\cmsmag\public_html\core\base\settings\internal_settings.php
+In linee61
+
+Fault: 08.05.2022 11:59:30---Не верный имени фаля или подключение core/user/controllers/AssetsController
+File:C:\OpenServer\domains\cmsmag\public_html\core\base\settings\internal_settings.php
+In linee61
+
+Fault: 08.05.2022 11:59:30---Не верный имени фаля или подключение core/user/controllers/AssetsController
+File:C:\OpenServer\domains\cmsmag\public_html\core\base\settings\internal_settings.php
+In linee61
+
+Fault: 08.05.2022 11:59:30---Не верный имени фаля или подключение core/user/controllers/AssetsController
+File:C:\OpenServer\domains\cmsmag\public_html\core\base\settings\internal_settings.php
+In linee61
+
+Fault: 08.05.2022 11:59:30---Не верный имени фаля или подключение core/user/controllers/AssetsController
+File:C:\OpenServer\domains\cmsmag\public_html\core\base\settings\internal_settings.php
+In linee61
+
+Fault: 08.05.2022 12:48:10---Не верный имени фаля или подключение core/user/controllers/AssetsController
+File:C:\OpenServer\domains\cmsmag\public_html\core\base\settings\internal_settings.php
+In linee61
+
+Fault: 08.05.2022 12:48:10---Не верный имени фаля или подключение core/user/controllers/AssetsController
+File:C:\OpenServer\domains\cmsmag\public_html\core\base\settings\internal_settings.php
+In linee61
+
+Fault: 08.05.2022 12:48:11---Не верный имени фаля или подключение core/user/controllers/AssetsController
+File:C:\OpenServer\domains\cmsmag\public_html\core\base\settings\internal_settings.php
+In linee61
+
+Fault: 08.05.2022 12:48:11---Не верный имени фаля или подключение core/user/controllers/AssetsController
+File:C:\OpenServer\domains\cmsmag\public_html\core\base\settings\internal_settings.php
+In linee61
+
+Fault: 08.05.2022 12:48:11---Не верный имени фаля или подключение core/user/controllers/AssetsController
+File:C:\OpenServer\domains\cmsmag\public_html\core\base\settings\internal_settings.php
+In linee61
+
+Fault: 08.05.2022 12:48:11---Не верный имени фаля или подключение core/user/controllers/AssetsController
+File:C:\OpenServer\domains\cmsmag\public_html\core\base\settings\internal_settings.php
+In linee61
+
+Fault: 08.05.2022 12:48:11---Не верный имени фаля или подключение core/user/controllers/AssetsController
+File:C:\OpenServer\domains\cmsmag\public_html\core\base\settings\internal_settings.php
+In linee61
+
+Fault: 08.05.2022 12:48:11---Не верный имени фаля или подключение core/user/controllers/AssetsController
+File:C:\OpenServer\domains\cmsmag\public_html\core\base\settings\internal_settings.php
+In linee61
+
+Fault: 08.05.2022 12:48:11---Не верный имени фаля или подключение core/user/controllers/AssetsController
+File:C:\OpenServer\domains\cmsmag\public_html\core\base\settings\internal_settings.php
+In linee61
+
+Fault: 08.05.2022 12:48:11---Не верный имени фаля или подключение core/user/controllers/AssetsController
+File:C:\OpenServer\domains\cmsmag\public_html\core\base\settings\internal_settings.php
+In linee61
+
+Fault: 08.05.2022 12:48:11---Не верный имени фаля или подключение core/user/controllers/AssetsController
+File:C:\OpenServer\domains\cmsmag\public_html\core\base\settings\internal_settings.php
+In linee61
+
+Fault: 08.05.2022 12:48:12---Не верный имени фаля или подключение core/user/controllers/AssetsController
+File:C:\OpenServer\domains\cmsmag\public_html\core\base\settings\internal_settings.php
+In linee61
+
+Fault: 08.05.2022 12:48:12---Не верный имени фаля или подключение core/user/controllers/AssetsController
+File:C:\OpenServer\domains\cmsmag\public_html\core\base\settings\internal_settings.php
+In linee61
+
+Fault: 08.05.2022 12:48:12---Не верный имени фаля или подключение core/user/controllers/AssetsController
+File:C:\OpenServer\domains\cmsmag\public_html\core\base\settings\internal_settings.php
+In linee61
+
+Fault: 08.05.2022 12:48:12---Не верный имени фаля или подключение core/user/controllers/AssetsController
+File:C:\OpenServer\domains\cmsmag\public_html\core\base\settings\internal_settings.php
+In linee61
+
+Fault: 08.05.2022 12:48:12---Не верный имени фаля или подключение core/user/controllers/AssetsController
+File:C:\OpenServer\domains\cmsmag\public_html\core\base\settings\internal_settings.php
+In linee61
+
+Fault: 08.05.2022 12:48:12---Не верный имени фаля или подключение core/user/controllers/AssetsController
+File:C:\OpenServer\domains\cmsmag\public_html\core\base\settings\internal_settings.php
+In linee61
+
+Fault: 08.05.2022 12:48:12---Не верный имени фаля или подключение core/user/controllers/AssetsController
+File:C:\OpenServer\domains\cmsmag\public_html\core\base\settings\internal_settings.php
+In linee61
+
+Fault: 08.05.2022 12:48:22---Class "core\user\controllers\Index.phpController" does not exist
+File:C:\OpenServer\domains\cmsmag\public_html\core\base\controllers\BaseController.php
+In linee42
+
+Fault: 08.05.2022 12:48:25---Не верный имени фаля или подключение core/user/controllers/AssetsController
+File:C:\OpenServer\domains\cmsmag\public_html\core\base\settings\internal_settings.php
+In linee61
+
+Fault: 08.05.2022 12:48:26---Не верный имени фаля или подключение core/user/controllers/AssetsController
+File:C:\OpenServer\domains\cmsmag\public_html\core\base\settings\internal_settings.php
+In linee61
+
+Fault: 08.05.2022 12:48:26---Не верный имени фаля или подключение core/user/controllers/AssetsController
+File:C:\OpenServer\domains\cmsmag\public_html\core\base\settings\internal_settings.php
+In linee61
+
+Fault: 08.05.2022 12:48:26---Не верный имени фаля или подключение core/user/controllers/AssetsController
+File:C:\OpenServer\domains\cmsmag\public_html\core\base\settings\internal_settings.php
+In linee61
+
+Fault: 08.05.2022 12:48:26---Не верный имени фаля или подключение core/user/controllers/AssetsController
+File:C:\OpenServer\domains\cmsmag\public_html\core\base\settings\internal_settings.php
+In linee61
+
+Fault: 08.05.2022 12:48:26---Не верный имени фаля или подключение core/user/controllers/AssetsController
+File:C:\OpenServer\domains\cmsmag\public_html\core\base\settings\internal_settings.php
+In linee61
+
+Fault: 08.05.2022 12:48:26---Не верный имени фаля или подключение core/user/controllers/AssetsController
+File:C:\OpenServer\domains\cmsmag\public_html\core\base\settings\internal_settings.php
+In linee61
+
+Fault: 08.05.2022 12:48:26---Не верный имени фаля или подключение core/user/controllers/AssetsController
+File:C:\OpenServer\domains\cmsmag\public_html\core\base\settings\internal_settings.php
+In linee61
+
+Fault: 08.05.2022 12:48:26---Не верный имени фаля или подключение core/user/controllers/AssetsController
+File:C:\OpenServer\domains\cmsmag\public_html\core\base\settings\internal_settings.php
+In linee61
+
+Fault: 08.05.2022 12:48:26---Не верный имени фаля или подключение core/user/controllers/AssetsController
+File:C:\OpenServer\domains\cmsmag\public_html\core\base\settings\internal_settings.php
+In linee61
+
+Fault: 08.05.2022 12:48:27---Не верный имени фаля или подключение core/user/controllers/AssetsController
+File:C:\OpenServer\domains\cmsmag\public_html\core\base\settings\internal_settings.php
+In linee61
+
+Fault: 08.05.2022 12:48:27---Не верный имени фаля или подключение core/user/controllers/AssetsController
+File:C:\OpenServer\domains\cmsmag\public_html\core\base\settings\internal_settings.php
+In linee61
+
+Fault: 08.05.2022 12:48:27---Не верный имени фаля или подключение core/user/controllers/AssetsController
+File:C:\OpenServer\domains\cmsmag\public_html\core\base\settings\internal_settings.php
+In linee61
+
+Fault: 08.05.2022 13:39:57---Не верный имени фаля или подключение core/user/controllers/AssetsController
+File:C:\OpenServer\domains\cmsmag\public_html\core\base\settings\internal_settings.php
+In linee61
+
+Fault: 08.05.2022 13:39:57---Не верный имени фаля или подключение core/user/controllers/AssetsController
+File:C:\OpenServer\domains\cmsmag\public_html\core\base\settings\internal_settings.php
+In linee61
+
+Fault: 08.05.2022 13:39:57---Не верный имени фаля или подключение core/user/controllers/AssetsController
+File:C:\OpenServer\domains\cmsmag\public_html\core\base\settings\internal_settings.php
+In linee61
+
+Fault: 08.05.2022 13:39:57---Не верный имени фаля или подключение core/user/controllers/AssetsController
+File:C:\OpenServer\domains\cmsmag\public_html\core\base\settings\internal_settings.php
+In linee61
+
+Fault: 08.05.2022 13:39:57---Не верный имени фаля или подключение core/user/controllers/AssetsController
+File:C:\OpenServer\domains\cmsmag\public_html\core\base\settings\internal_settings.php
+In linee61
+
+Fault: 08.05.2022 13:39:57---Не верный имени фаля или подключение core/user/controllers/AssetsController
+File:C:\OpenServer\domains\cmsmag\public_html\core\base\settings\internal_settings.php
+In linee61
+
+Fault: 08.05.2022 13:39:57---Не верный имени фаля или подключение core/user/controllers/AssetsController
+File:C:\OpenServer\domains\cmsmag\public_html\core\base\settings\internal_settings.php
+In linee61
+
+Fault: 08.05.2022 13:39:57---Не верный имени фаля или подключение core/user/controllers/AssetsController
+File:C:\OpenServer\domains\cmsmag\public_html\core\base\settings\internal_settings.php
+In linee61
+
+Fault: 08.05.2022 13:39:57---Не верный имени фаля или подключение core/user/controllers/AssetsController
+File:C:\OpenServer\domains\cmsmag\public_html\core\base\settings\internal_settings.php
+In linee61
+
+Fault: 08.05.2022 13:39:57---Не верный имени фаля или подключение core/user/controllers/AssetsController
+File:C:\OpenServer\domains\cmsmag\public_html\core\base\settings\internal_settings.php
+In linee61
+
+Fault: 08.05.2022 13:39:57---Не верный имени фаля или подключение core/user/controllers/AssetsController
+File:C:\OpenServer\domains\cmsmag\public_html\core\base\settings\internal_settings.php
+In linee61
+
+Fault: 08.05.2022 13:39:57---Не верный имени фаля или подключение core/user/controllers/AssetsController
+File:C:\OpenServer\domains\cmsmag\public_html\core\base\settings\internal_settings.php
+In linee61
+
+Fault: 08.05.2022 13:39:57---Не верный имени фаля или подключение core/user/controllers/AssetsController
+File:C:\OpenServer\domains\cmsmag\public_html\core\base\settings\internal_settings.php
+In linee61
+
+Fault: 08.05.2022 13:40:10---Не верный имени фаля или подключение core/base/exceptions/AuthException
+File:C:\OpenServer\domains\cmsmag\public_html\core\base\settings\internal_settings.php
+In linee61
+
+Fault: 08.05.2022 13:40:42---Не верный имени фаля или подключение core/user/controllers/AssetsController
+File:C:\OpenServer\domains\cmsmag\public_html\core\base\settings\internal_settings.php
+In linee61
+
+Fault: 08.05.2022 13:40:42---Не верный имени фаля или подключение core/user/controllers/AssetsController
+File:C:\OpenServer\domains\cmsmag\public_html\core\base\settings\internal_settings.php
+In linee61
+
+Fault: 08.05.2022 13:40:42---Не верный имени фаля или подключение core/user/controllers/AssetsController
+File:C:\OpenServer\domains\cmsmag\public_html\core\base\settings\internal_settings.php
+In linee61
+
+Fault: 08.05.2022 13:40:42---Не верный имени фаля или подключение core/user/controllers/AssetsController
+File:C:\OpenServer\domains\cmsmag\public_html\core\base\settings\internal_settings.php
+In linee61
+
+Fault: 08.05.2022 13:40:42---Не верный имени фаля или подключение core/user/controllers/AssetsController
+File:C:\OpenServer\domains\cmsmag\public_html\core\base\settings\internal_settings.php
+In linee61
+
+Fault: 08.05.2022 13:40:42---Не верный имени фаля или подключение core/user/controllers/AssetsController
+File:C:\OpenServer\domains\cmsmag\public_html\core\base\settings\internal_settings.php
+In linee61
+
+Fault: 08.05.2022 13:40:42---Не верный имени фаля или подключение core/user/controllers/AssetsController
+File:C:\OpenServer\domains\cmsmag\public_html\core\base\settings\internal_settings.php
+In linee61
+
+Fault: 08.05.2022 13:40:42---Не верный имени фаля или подключение core/user/controllers/AssetsController
+File:C:\OpenServer\domains\cmsmag\public_html\core\base\settings\internal_settings.php
+In linee61
+
+Fault: 08.05.2022 13:40:42---Не верный имени фаля или подключение core/user/controllers/AssetsController
+File:C:\OpenServer\domains\cmsmag\public_html\core\base\settings\internal_settings.php
+In linee61
+
+Fault: 08.05.2022 13:40:42---Не верный имени фаля или подключение core/user/controllers/AssetsController
+File:C:\OpenServer\domains\cmsmag\public_html\core\base\settings\internal_settings.php
+In linee61
+
+Fault: 08.05.2022 13:40:42---Не верный имени фаля или подключение core/user/controllers/AssetsController
+File:C:\OpenServer\domains\cmsmag\public_html\core\base\settings\internal_settings.php
+In linee61
+
+Fault: 08.05.2022 13:40:42---Не верный имени фаля или подключение core/user/controllers/AssetsController
+File:C:\OpenServer\domains\cmsmag\public_html\core\base\settings\internal_settings.php
+In linee61
+
+Fault: 08.05.2022 13:40:42---Не верный имени фаля или подключение core/user/controllers/AssetsController
+File:C:\OpenServer\domains\cmsmag\public_html\core\base\settings\internal_settings.php
+In linee61
+
+Fault: 09.05.2022 14:40:53---Не верный имени фаля или подключение core/user/controllers/AssetsController
+File:C:\OpenServer\domains\cmsmag\public_html\core\base\settings\internal_settings.php
+In linee61
+
+Fault: 09.05.2022 14:40:53---Не верный имени фаля или подключение core/user/controllers/AssetsController
+File:C:\OpenServer\domains\cmsmag\public_html\core\base\settings\internal_settings.php
+In linee61
+
+Fault: 09.05.2022 14:40:53---Не верный имени фаля или подключение core/user/controllers/AssetsController
+File:C:\OpenServer\domains\cmsmag\public_html\core\base\settings\internal_settings.php
+In linee61
+
+Fault: 09.05.2022 14:40:53---Не верный имени фаля или подключение core/user/controllers/AssetsController
+File:C:\OpenServer\domains\cmsmag\public_html\core\base\settings\internal_settings.php
+In linee61
+
+Fault: 09.05.2022 14:40:53---Не верный имени фаля или подключение core/user/controllers/AssetsController
+File:C:\OpenServer\domains\cmsmag\public_html\core\base\settings\internal_settings.php
+In linee61
+
+Fault: 09.05.2022 14:40:53---Не верный имени фаля или подключение core/user/controllers/AssetsController
+File:C:\OpenServer\domains\cmsmag\public_html\core\base\settings\internal_settings.php
+In linee61
+
+Fault: 09.05.2022 14:40:53---Не верный имени фаля или подключение core/user/controllers/AssetsController
+File:C:\OpenServer\domains\cmsmag\public_html\core\base\settings\internal_settings.php
+In linee61
+
+Fault: 09.05.2022 14:40:53---Не верный имени фаля или подключение core/user/controllers/AssetsController
+File:C:\OpenServer\domains\cmsmag\public_html\core\base\settings\internal_settings.php
+In linee61
+
+Fault: 09.05.2022 14:40:53---Не верный имени фаля или подключение core/user/controllers/AssetsController
+File:C:\OpenServer\domains\cmsmag\public_html\core\base\settings\internal_settings.php
+In linee61
+
+Fault: 09.05.2022 14:40:53---Не верный имени фаля или подключение core/user/controllers/AssetsController
+File:C:\OpenServer\domains\cmsmag\public_html\core\base\settings\internal_settings.php
+In linee61
+
+Fault: 09.05.2022 14:40:53---Не верный имени фаля или подключение core/user/controllers/AssetsController
+File:C:\OpenServer\domains\cmsmag\public_html\core\base\settings\internal_settings.php
+In linee61
+
+Fault: 09.05.2022 14:40:53---Не верный имени фаля или подключение core/user/controllers/AssetsController
+File:C:\OpenServer\domains\cmsmag\public_html\core\base\settings\internal_settings.php
+In linee61
+
+Fault: 09.05.2022 14:40:53---Не верный имени фаля или подключение core/user/controllers/AssetsController
+File:C:\OpenServer\domains\cmsmag\public_html\core\base\settings\internal_settings.php
+In linee61
+
+Fault: 09.05.2022 14:41:00---Не верный имени фаля или подключение core/base/exceptions/AuthException
+File:C:\OpenServer\domains\cmsmag\public_html\core\base\settings\internal_settings.php
+In linee61
+
+Fault: 09.05.2022 16:33:14---Не верный имени фаля или подключение core/user/controllers/AssetsController
+File:C:\OpenServer\domains\cmsmag\public_html\core\base\settings\internal_settings.php
+In linee61
+
+Fault: 09.05.2022 16:33:14---Не верный имени фаля или подключение core/user/controllers/AssetsController
+File:C:\OpenServer\domains\cmsmag\public_html\core\base\settings\internal_settings.php
+In linee61
+
+Fault: 09.05.2022 16:33:14---Не верный имени фаля или подключение core/user/controllers/AssetsController
+File:C:\OpenServer\domains\cmsmag\public_html\core\base\settings\internal_settings.php
+In linee61
+
+Fault: 09.05.2022 16:33:14---Не верный имени фаля или подключение core/user/controllers/AssetsController
+File:C:\OpenServer\domains\cmsmag\public_html\core\base\settings\internal_settings.php
+In linee61
+
+Fault: 09.05.2022 16:33:14---Не верный имени фаля или подключение core/user/controllers/AssetsController
+File:C:\OpenServer\domains\cmsmag\public_html\core\base\settings\internal_settings.php
+In linee61
+
+Fault: 09.05.2022 16:33:14---Не верный имени фаля или подключение core/user/controllers/AssetsController
+File:C:\OpenServer\domains\cmsmag\public_html\core\base\settings\internal_settings.php
+In linee61
+
+Fault: 09.05.2022 16:33:14---Не верный имени фаля или подключение core/user/controllers/AssetsController
+File:C:\OpenServer\domains\cmsmag\public_html\core\base\settings\internal_settings.php
+In linee61
+
+Fault: 09.05.2022 16:33:14---Не верный имени фаля или подключение core/user/controllers/AssetsController
+File:C:\OpenServer\domains\cmsmag\public_html\core\base\settings\internal_settings.php
+In linee61
+
+Fault: 09.05.2022 16:33:14---Не верный имени фаля или подключение core/user/controllers/AssetsController
+File:C:\OpenServer\domains\cmsmag\public_html\core\base\settings\internal_settings.php
+In linee61
+
+Fault: 09.05.2022 16:33:14---Не верный имени фаля или подключение core/user/controllers/AssetsController
+File:C:\OpenServer\domains\cmsmag\public_html\core\base\settings\internal_settings.php
+In linee61
+
+Fault: 09.05.2022 16:33:14---Не верный имени фаля или подключение core/user/controllers/AssetsController
+File:C:\OpenServer\domains\cmsmag\public_html\core\base\settings\internal_settings.php
+In linee61
+
+Fault: 09.05.2022 16:33:14---Не верный имени фаля или подключение core/user/controllers/AssetsController
+File:C:\OpenServer\domains\cmsmag\public_html\core\base\settings\internal_settings.php
+In linee61
+
+Fault: 09.05.2022 16:33:14---Не верный имени фаля или подключение core/user/controllers/AssetsController
+File:C:\OpenServer\domains\cmsmag\public_html\core\base\settings\internal_settings.php
+In linee61
+
